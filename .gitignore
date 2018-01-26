@@ -248,4 +248,5 @@ hs_err_pid*
 *.app
 
 
+ref.md
 # End of https://www.gitignore.io/api/c++
