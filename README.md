@@ -14,6 +14,8 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./C++/2-Add-Two-Numbers.cpp) | _O(n)_ | _O(1)_ | Medium | | 
 | 021| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./C++/21-Merge-Two-Sorted-Lists.cpp)| _O(n)_ | _O(1)_ | Easy         ||
+| 023| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/23-Merge-k-Sorted-Lists.cpp) | _O(nlogk)_| _O(1)_| Hard          | [here](https://www.liuin.cn/2018/01/26/LeetCode Merge k Sorted Lists 题解/) | 
+
 
 
 ## Math
@@ -38,3 +40,4 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |015 | [3 Sum](https://leetcode.com/problems/3sum/)         | [C++](./C++/15-3Sum.cpp)    | _O(n^2)_        | _O(1)_          | Medium         | [here](https://www.liuin.cn/2018/01/28/LeetCode-3Sum-3Sum-Closest-题解/)| 
 |016 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./C++/16-3Sum-Closest.cpp) | _O(n^2)_       | _O(1)_          | Medium         |[here](https://www.liuin.cn/2018/01/28/LeetCode-3Sum-3Sum-Closest-题解/)|
+|018| [4 Sum](https://leetcode.com/problems/4sum/)         | [C++](./C++/18-4Sum.cpp)         | _O(n^3)_    | _O(1)_    | Medium         ||
