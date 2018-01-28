@@ -32,3 +32,9 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 | 020| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./C++/20-Valid-Parentheses.cpp) | _O(n)_        | _O(n)_          | Easy           ||
+
+## Array
+|  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
+|015 | [3 Sum](https://leetcode.com/problems/3sum/)         | [C++](./C++/15-3Sum.cpp)    | _O(n^2)_        | _O(1)_          | Medium         | [here](https://www.liuin.cn/2018/01/28/LeetCode-3Sum-3Sum-Closest-题解/)| 
+|016 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./C++/16-3Sum-Closest.cpp) | _O(n^2)_       | _O(1)_          | Medium         |[here](https://www.liuin.cn/2018/01/28/LeetCode-3Sum-3Sum-Closest-题解/)|
