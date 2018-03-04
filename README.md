@@ -41,4 +41,7 @@ LeetCode 代码和题解集合
 |015 | [3 Sum](https://leetcode.com/problems/3sum/)         | [C++](./C++/15-3Sum.cpp)    | _O(n^2)_        | _O(1)_          | Medium         | [here](https://www.liuin.cn/2018/01/28/LeetCode-3Sum-3Sum-Closest-题解/)| 
 |016 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./C++/16-3Sum-Closest.cpp) | _O(n^2)_       | _O(1)_          | Medium         |[here](https://www.liuin.cn/2018/01/28/LeetCode-3Sum-3Sum-Closest-题解/)|
 |018| [4 Sum](https://leetcode.com/problems/4sum/)         | [C++](./C++/18-4Sum.cpp)         | _O(n^3)_    | _O(1)_    | Medium         ||
+|026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./C++/026.cpp) | _O(n)_       | _O(1)_         | Easy           ||
+|027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./C++/027.cpp) | _O(n)_      | _O(1)_         | Easy           ||
 |031 | [Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./C++/031.cpp)| _O(n)_  | _O(1)_          | Medium         | [here](https://www.liuin.cn/2018/02/25/LeetCode-Next-Permutation-题解/)|
+|041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [C++](./C++/041.cpp) | _O(n)_ | _O(1)_ | Hard         || 
