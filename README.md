@@ -13,8 +13,12 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./C++/2-Add-Two-Numbers.cpp) | _O(n)_ | _O(1)_ | Medium | | 
+|019| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./C++/019.cpp) | _O(n)_       | _O(1)_         | Easy         | 双指针 | 
 | 021| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./C++/21-Merge-Two-Sorted-Lists.cpp)| _O(n)_ | _O(1)_ | Easy         ||
-| 023| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/23-Merge-k-Sorted-Lists.cpp) | _O(nlogk)_| _O(1)_| Hard          | [here](https://www.liuin.cn/2018/01/26/LeetCode Merge k Sorted Lists 题解/) | 
+| 023| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/23-Merge-k-Sorted-Lists.cpp) | _O(nlogk)_| _O(1)_| Hard          | [here](https://www.liuin.cn/2018/01/26/LeetCode%20Merge%20k%20Sorted%20Lists%20%E9%A2%98%E8%A7%A3/) | 
+|024| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./C++/024.cpp)   | _O(n)_          | _O(1)_          | Easy         ||
+|025| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./C++/025.cpp) | _O(n)_       | _O(1)_         | Hard         ||
+|086| [Partition List](https://leetcode.com/problems/partition-list/)| [C++](./C++/086.cpp) | _O(n)_       | _O(1)_         | Medium         ||
 
 
 
@@ -28,6 +32,7 @@ LeetCode 代码和题解集合
 ## String
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
+|006| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./C++/006.cpp)  | _O(n)_ | _O(1)_        | Easy           | 模拟法 |
 | 014| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./C++/14-Longest-Common-Prefix.cpp) | _O(n * k)_   | _O(1)_  | Easy           ||
 
 ## Stack
