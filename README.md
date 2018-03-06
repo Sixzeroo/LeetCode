@@ -33,7 +33,10 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |006| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./C++/006.cpp)  | _O(n)_ | _O(1)_        | Easy           | 模拟法 |
+|008| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./C++/008.cpp)  | _O(n)_ | _O(1)_ | Medium      | 模拟法|
 | 014| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./C++/14-Longest-Common-Prefix.cpp) | _O(n * k)_   | _O(1)_  | Easy           ||
+|028| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./C++/028-1.cpp) | _O(n + k)_   | _O(k)_  | Easy           || `KMP Algorithm`(待实现)|
+|038| [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./C++/038.cpp) | _O(n * 2^n)_  | _O(2^n)_        | Easy           ||
 
 ## Stack
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -49,4 +52,5 @@ LeetCode 代码和题解集合
 |026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./C++/026.cpp) | _O(n)_       | _O(1)_         | Easy           ||
 |027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./C++/027.cpp) | _O(n)_      | _O(1)_         | Easy           ||
 |031 | [Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./C++/031.cpp)| _O(n)_  | _O(1)_          | Medium         | [here](https://www.liuin.cn/2018/02/25/LeetCode-Next-Permutation-题解/)|
+|035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)| [C++](./C++/035.cpp) | _O(n)_ | _O(1)_ | Easy         || 
 |041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [C++](./C++/041.cpp) | _O(n)_ | _O(1)_ | Hard         || 
