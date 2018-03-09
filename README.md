@@ -27,6 +27,7 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./C++/7-Reverse-Integer.cpp) | _O(1)_ | _O(1)_ | Easy | |
 | 009| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./C++/9-Palindrome-Number.cpp) | _O(1)_ | _O(1)_        | Easy           ||
+|012| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./C++/012.cpp) | _O(n)_ | _O(1)_          | Medium ||
 | 013| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./C++/13-Roman-to-Integer.cpp)  | _O(n)_ | _O(1)_          | Easy           ||
 
 ## String
@@ -54,3 +55,18 @@ LeetCode 代码和题解集合
 |031 | [Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./C++/031.cpp)| _O(n)_  | _O(1)_          | Medium         | [here](https://www.liuin.cn/2018/02/25/LeetCode-Next-Permutation-题解/)|
 |035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)| [C++](./C++/035.cpp) | _O(n)_ | _O(1)_ | Easy         || 
 |041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [C++](./C++/041.cpp) | _O(n)_ | _O(1)_ | Hard         || 
+
+## Binary Search
+|  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
+|004| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./C++/004.cpp)  | _O(log(min(m, n)))_ | _O(1)_ | Hard         |[here](https://www.liuin.cn/2018/03/08/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Median-of-Two-Sorted-Arrays/)|
+
+## DP
+|  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
+|010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](./C++/010-1.cpp) [C++](./C++/010-2.cpp)| _O(m * n)_ | _O(n)_ | Hard | [动态规划](https://www.liuin.cn/2018/03/09/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Regular-Expression-Matching/) |
+
+## Greedy
+|  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
+|011| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./C++/011.cpp) | _O(n)_ | _O(1)_ | Medium | [贪心算法](https://www.liuin.cn/2018/03/09/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Container-With-Most-Water/) |
