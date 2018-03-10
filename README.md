@@ -29,6 +29,7 @@ LeetCode 代码和题解集合
 | 009| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./C++/9-Palindrome-Number.cpp) | _O(1)_ | _O(1)_        | Easy           ||
 |012| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./C++/012.cpp) | _O(n)_ | _O(1)_          | Medium ||
 | 013| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./C++/13-Roman-to-Integer.cpp)  | _O(n)_ | _O(1)_          | Easy           ||
+|029| [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./C++/029.cpp)   | _O(1)_       | _O(1)_         | Medium         | 位运算 |
 
 ## String
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -70,3 +71,10 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |011| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./C++/011.cpp) | _O(n)_ | _O(1)_ | Medium | [贪心算法](https://www.liuin.cn/2018/03/09/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Container-With-Most-Water/) |
+
+## Backtracking
+|  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
+|017| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++ 循环](./C++/017-1.cpp) [C++ 回溯](./C++/017-2.cpp) | _O(n * 4^n)_ | _O(n)_ | Medium ||
+
+
