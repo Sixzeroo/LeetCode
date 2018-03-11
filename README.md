@@ -66,6 +66,7 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](./C++/010-1.cpp) [C++](./C++/010-2.cpp)| _O(m * n)_ | _O(n)_ | Hard | [动态规划](https://www.liuin.cn/2018/03/09/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Regular-Expression-Matching/) |
+|053| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++ 数学](./C++/053-1.cpp)| _O(n)_     | _O(1)_         | Medium         ||
 
 ## Greedy
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -76,5 +77,5 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |017| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++ 循环](./C++/017-1.cpp) [C++ 回溯](./C++/017-2.cpp) | _O(n * 4^n)_ | _O(n)_ | Medium ||
-
+|022| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++ 回溯](./C++/022.cpp)| _O(4^n / n^(3/2))_ | _O(n)_   | Medium         ||
 
