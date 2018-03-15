@@ -7,6 +7,7 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/1-Two-Sum.cpp) | _O(n)_ | _O(n)_ | Easy | |
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/3-Longest-Substring-Without-Repeating-Characters.cpp) | _O(n)_ | _O(1)_ | Medium | |
+|036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./C++/036.cpp) | _O(9^2)_         | _O(9)_          | Easy           ||
 
 
 ## Linked List
@@ -38,6 +39,7 @@ LeetCode 代码和题解集合
 |008| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./C++/008.cpp)  | _O(n)_ | _O(1)_ | Medium      | 模拟法|
 | 014| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./C++/14-Longest-Common-Prefix.cpp) | _O(n * k)_   | _O(1)_  | Easy           ||
 |028| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./C++/028-1.cpp) | _O(n + k)_   | _O(k)_  | Easy           || `KMP Algorithm`(待实现)|
+|030| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [C++](./C++/030.cpp)  | _O((m + n) * k)_ | _O(n * k)_ | Hard     |[here]()|
 |038| [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./C++/038.cpp) | _O(n * 2^n)_  | _O(2^n)_        | Easy           ||
 
 ## Stack
@@ -61,6 +63,8 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |004| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./C++/004.cpp)  | _O(log(min(m, n)))_ | _O(1)_ | Hard         |[here](https://www.liuin.cn/2018/03/08/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Median-of-Two-Sorted-Arrays/)|
+|033| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./C++/033.cpp)  | _O(logn)_ | _O(1)_   | Hard         | 坐标转换+二分法 |
+|034| [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./C++/034.cpp)  | _O(logn)_ | _O(1)_   | Medium         ||
 
 ## DP
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -78,4 +82,5 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |017| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++ 循环](./C++/017-1.cpp) [C++ 回溯](./C++/017-2.cpp) | _O(n * 4^n)_ | _O(n)_ | Medium ||
 |022| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++ 回溯](./C++/022.cpp)| _O(4^n / n^(3/2))_ | _O(n)_   | Medium         ||
+|037| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C++](./C++/037.cpp) | _O((9!)^9)_  | _O(1)_          | Hard           | bfs |
 
