@@ -87,4 +87,5 @@ LeetCode 代码和题解集合
 |037| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C++](./C++/037.cpp) | _O((9!)^9)_  | _O(1)_          | Hard           | bfs |
 |039| [Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./C++/039.cpp) | _O(k * n^k)_    | _O(k)_          | Medium         ||
 |040| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](./C++/040.cpp)| _O(k * C(n, k))_| _O(k)_         | Medium         ||
-
+|046| [Permutations](https://leetcode.com/problems/permutations/)| [C++](./C++/046.cpp) | _O(n * n!)_         | _O(n)_          | Medium         ||
+|047| [Permutations II](https://leetcode.com/problems/permutations-ii/)| [C++](./C++/047.cpp) | _O(n * n!)_   | _O(n)_          | Medium           ||
