@@ -39,13 +39,16 @@ LeetCode 代码和题解集合
 |008| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./C++/008.cpp)  | _O(n)_ | _O(1)_ | Medium      | 模拟法|
 | 014| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./C++/14-Longest-Common-Prefix.cpp) | _O(n * k)_   | _O(1)_  | Easy           ||
 |028| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./C++/028-1.cpp) | _O(n + k)_   | _O(k)_  | Easy           || `KMP Algorithm`(待实现)|
-|030| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [C++](./C++/030.cpp)  | _O((m + n) * k)_ | _O(n * k)_ | Hard     |[here]()|
+|030| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [C++](./C++/030.cpp)  | _O((m + n) * k)_ | _O(n * k)_ | Hard     |[here](https://www.liuin.cn/2018/03/15/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Substring-with-Concatenation-of-All-Words/)|
 |038| [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./C++/038.cpp) | _O(n * 2^n)_  | _O(2^n)_        | Easy           ||
+|043| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./C++/043.cpp)| _O(m * n)_ | _O(m + n)_  | Medium         |大数乘法|
 
 ## Stack
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 | 020| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./C++/20-Valid-Parentheses.cpp) | _O(n)_        | _O(n)_          | Easy           ||
+|032| [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./C++/032-2.cpp)  | _O(n)_ | _O(1)_ | Hard   |[here]()|
+
 
 ## Array
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -70,6 +73,7 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](./C++/010-1.cpp) [C++](./C++/010-2.cpp)| _O(m * n)_ | _O(n)_ | Hard | [动态规划](https://www.liuin.cn/2018/03/09/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Regular-Expression-Matching/) |
+|032| [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./C++/032-1.cpp)  | _O(n)_ | _O(1)_ | Hard   | [here]() |
 |044| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [C++](./C++/044.cpp) | _O(m + n)_ | _O(1)_    | Hard           | DP | 
 |053| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++ 数学](./C++/053-1.cpp)| _O(n)_     | _O(1)_         | Medium         ||
 
@@ -78,6 +82,7 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |011| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./C++/011.cpp) | _O(n)_ | _O(1)_ | Medium | [贪心算法](https://www.liuin.cn/2018/03/09/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Container-With-Most-Water/) |
 |042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/042.cpp) | _O(n)_ | _O(1)_ | Hard | 双指针，巧妙方法 | 
+|045| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [C++](./C++/045.cpp) | _O(n)_        | _O(1)_          | Hard           ||
 
 ## Backtracking
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
