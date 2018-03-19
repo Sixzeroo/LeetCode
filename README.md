@@ -8,6 +8,7 @@ LeetCode 代码和题解集合
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/1-Two-Sum.cpp) | _O(n)_ | _O(n)_ | Easy | |
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/3-Longest-Substring-Without-Repeating-Characters.cpp) | _O(n)_ | _O(1)_ | Medium | |
 |036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./C++/036.cpp) | _O(9^2)_         | _O(9)_          | Easy           ||
+|049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | [C++](./C++/049.cpp)  | _O(n * glogg)_          | _O(n)_          | Medium         ||
 
 
 ## Linked List
@@ -31,6 +32,7 @@ LeetCode 代码和题解集合
 |012| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./C++/012.cpp) | _O(n)_ | _O(1)_          | Medium ||
 | 013| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./C++/13-Roman-to-Integer.cpp)  | _O(n)_ | _O(1)_          | Easy           ||
 |029| [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./C++/029.cpp)   | _O(1)_       | _O(1)_         | Medium         | 位运算 |
+|050| [Pow(x, n)](https://leetcode.com/problems/powx-n/)     | [C++](./C++/050.cpp)     | _O(1)_       | _O(1)_       | Medium         | 快速幂运算 |
 
 ## String
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -61,6 +63,7 @@ LeetCode 代码和题解集合
 |031 | [Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./C++/031.cpp)| _O(n)_  | _O(1)_          | Medium         | [here](https://www.liuin.cn/2018/02/25/LeetCode-Next-Permutation-题解/)|
 |035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)| [C++](./C++/035.cpp) | _O(n)_ | _O(1)_ | Easy         || 
 |041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [C++](./C++/041.cpp) | _O(n)_ | _O(1)_ | Hard         || 
+|048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)   | [C++](./C++/048.cpp) | _O(n^2)_      | _O(1)_         | Medium         ||
 
 ## Binary Search
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
