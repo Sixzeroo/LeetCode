@@ -44,6 +44,7 @@ LeetCode 代码和题解集合
 |030| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [C++](./C++/030.cpp)  | _O((m + n) * k)_ | _O(n * k)_ | Hard     |[here](https://www.liuin.cn/2018/03/15/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Substring-with-Concatenation-of-All-Words/)|
 |038| [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./C++/038.cpp) | _O(n * 2^n)_  | _O(2^n)_        | Easy           ||
 |043| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./C++/043.cpp)| _O(m * n)_ | _O(m + n)_  | Medium         |大数乘法|
+|058| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./C++/058.cpp) | _O(n)_   | _O(1)_  | Easy||
 
 ## Stack
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -64,6 +65,8 @@ LeetCode 代码和题解集合
 |035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)| [C++](./C++/035.cpp) | _O(n)_ | _O(1)_ | Easy         || 
 |041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [C++](./C++/041.cpp) | _O(n)_ | _O(1)_ | Hard         || 
 |048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)   | [C++](./C++/048.cpp) | _O(n^2)_      | _O(1)_         | Medium         ||
+|054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./C++/054.cpp) | _O(m * n)_    | _O(1)_         | Medium         ||
+|059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./C++/059.cpp)  | _O(n^2)_ | _O(1)_      | Medium         ||
 
 ## Binary Search
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -86,6 +89,7 @@ LeetCode 代码和题解集合
 |011| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./C++/011.cpp) | _O(n)_ | _O(1)_ | Medium | [贪心算法](https://www.liuin.cn/2018/03/09/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Container-With-Most-Water/) |
 |042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/042.cpp) | _O(n)_ | _O(1)_ | Hard | 双指针，巧妙方法 | 
 |045| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [C++](./C++/045.cpp) | _O(n)_        | _O(1)_          | Hard           ||
+|055| [Jump Game](https://leetcode.com/problems/jump-game/)     | [C++](./C++/055.cpp)  | _O(n)_          | _O(1)_          | Medium         ||
 
 ## Backtracking
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -100,3 +104,14 @@ LeetCode 代码和题解集合
 |051| [N-Queens](https://leetcode.com/problems/n-queens/)      | [C++](./C++/051.cpp)   | _O(n!)_         | _O(n)_          | Hard           | 值得优化 |
 |052| [N-Queens-II](https://leetcode.com/problems/n-queens-ii/)   | [C++](./C++/052.cpp) | _O(n!)_        | _O(n)_          | Hard           | 值得优化 |
 |357| [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./C++/357.cpp) | _O(n!)_ | _O(1)_ | Medium || DP实现 |
+
+## Tree
+|  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
+|094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [C++](./C++/094.cpp) | _O(n)_| _O(1)_| Medium           || |
+ 
+## Sort
+|  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
+|056| [Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./C++/056.cpp) | _O(nlogn)_  | _O(1)_        | Medium          ||
+|057| [Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./C++/057.cpp) | _O(n)_    | _O(1)_          | Hard           ||
