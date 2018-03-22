@@ -20,6 +20,7 @@ LeetCode 代码和题解集合
 | 023| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/23-Merge-k-Sorted-Lists.cpp) | _O(nlogk)_| _O(1)_| Hard          | [here](https://www.liuin.cn/2018/01/26/LeetCode%20Merge%20k%20Sorted%20Lists%20%E9%A2%98%E8%A7%A3/) | 
 |024| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./C++/024.cpp)   | _O(n)_          | _O(1)_          | Easy         ||
 |025| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./C++/025.cpp) | _O(n)_       | _O(1)_         | Hard         ||
+|061| [Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./C++/061.cpp)  | _O(n)_          | _O(1)_          | Medium         ||
 |086| [Partition List](https://leetcode.com/problems/partition-list/)| [C++](./C++/086.cpp) | _O(n)_       | _O(1)_         | Medium         ||
 
 
@@ -33,6 +34,7 @@ LeetCode 代码和题解集合
 | 013| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./C++/13-Roman-to-Integer.cpp)  | _O(n)_ | _O(1)_          | Easy           ||
 |029| [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./C++/029.cpp)   | _O(1)_       | _O(1)_         | Medium         | 位运算 |
 |050| [Pow(x, n)](https://leetcode.com/problems/powx-n/)     | [C++](./C++/050.cpp)     | _O(1)_       | _O(1)_       | Medium         | 快速幂运算 |
+| 060| [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./C++/060.cpp)  | _O(n^2)_ | _O(n)_  | Medium         ||
 
 ## String
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -82,6 +84,8 @@ LeetCode 代码和题解集合
 |032| [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./C++/032-1.cpp)  | _O(n)_ | _O(1)_ | Hard   | [here]() |
 |044| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [C++](./C++/044.cpp) | _O(m + n)_ | _O(1)_    | Hard           | DP | 
 |053| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++ 数学](./C++/053-1.cpp)| _O(n)_     | _O(1)_         | Medium         ||
+|062| [Unique Paths](https://leetcode.com/problems/unique-paths/)    | [C++](./C++/062.cpp) | _O(m * n)_      | _O(m + n)_   | Medium         ||
+
 
 ## Greedy
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
