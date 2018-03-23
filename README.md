@@ -35,6 +35,7 @@ LeetCode 代码和题解集合
 |029| [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./C++/029.cpp)   | _O(1)_       | _O(1)_         | Medium         | 位运算 |
 |050| [Pow(x, n)](https://leetcode.com/problems/powx-n/)     | [C++](./C++/050.cpp)     | _O(1)_       | _O(1)_       | Medium         | 快速幂运算 |
 | 060| [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./C++/060.cpp)  | _O(n^2)_ | _O(n)_  | Medium         ||
+|065| [Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./C++/065.cpp) | _O(n)_         | _O(1)_          | Hard | 匹配 |
 
 ## String
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -47,6 +48,8 @@ LeetCode 代码和题解集合
 |038| [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./C++/038.cpp) | _O(n * 2^n)_  | _O(2^n)_        | Easy           ||
 |043| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./C++/043.cpp)| _O(m * n)_ | _O(m + n)_  | Medium         |大数乘法|
 |058| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./C++/058.cpp) | _O(n)_   | _O(1)_  | Easy||
+| 067| [Add Binary](https://leetcode.com/problems/add-binary/)    | [C++](./C++/067.cpp) | _O(n)_          | _O(1)_          | Easy           ||
+
 
 ## Stack
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -69,6 +72,8 @@ LeetCode 代码和题解集合
 |048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)   | [C++](./C++/048.cpp) | _O(n^2)_      | _O(1)_         | Medium         ||
 |054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./C++/054.cpp) | _O(m * n)_    | _O(1)_         | Medium         ||
 |059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./C++/059.cpp)  | _O(n^2)_ | _O(1)_      | Medium         ||
+|066 | [Plus One](https://leetcode.com/problems/plus-one/)      | [C++](./C++/066.cpp)  | _O(n)_           | _O(1)_         | Easy           || 
+
 
 ## Binary Search
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -85,6 +90,9 @@ LeetCode 代码和题解集合
 |044| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [C++](./C++/044.cpp) | _O(m + n)_ | _O(1)_    | Hard           | DP | 
 |053| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++ 数学](./C++/053-1.cpp)| _O(n)_     | _O(1)_         | Medium         ||
 |062| [Unique Paths](https://leetcode.com/problems/unique-paths/)    | [C++](./C++/062.cpp) | _O(m * n)_      | _O(m + n)_   | Medium         ||
+| 063| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](./C++/063.cpp) |  _O(m * n)_ | _O(m + n)_   | Medium         ||
+|064| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./C++/064.cpp)| _O(m * n)_ | _O(m + n)_     | Medium         ||
+
 
 
 ## Greedy
