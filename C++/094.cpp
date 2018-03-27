@@ -9,24 +9,22 @@
  */
 class Solution {
 public:
-    vector<int> preorderTraversal(TreeNode* root) {
-        TreeNode *p = root;
+    // 栈实现二叉树中序遍历
+    vector<int> inorderTraversal(TreeNode* root) {
         stack<TreeNode*> st;
+        TreeNode* p=root;
         vector<int> res;
-        while(p!= NULL || !st.empty())
+        while(p!=NULL || !st.empty())
         {
-            while(p!=NULL)
+            while(p)
             {
-                res.push_back(p->val);
                 st.push(p);
                 p = p->left;
             }
-            if(!st.empty())
-            {
-                p = st.top();
-                st.pop();
-                p = p -> right;
-            }
+            p = st.top();
+            st.pop();
+            res.push_back(p->val);
+            p = p->right;
         }
         return res;
     }

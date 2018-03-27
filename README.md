@@ -49,6 +49,7 @@ LeetCode 代码和题解集合
 |043| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./C++/043.cpp)| _O(m * n)_ | _O(m + n)_  | Medium         |大数乘法|
 |058| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./C++/058.cpp) | _O(n)_   | _O(1)_  | Easy||
 | 067| [Add Binary](https://leetcode.com/problems/add-binary/)    | [C++](./C++/067.cpp) | _O(n)_          | _O(1)_          | Easy           ||
+|068| [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](./C++/068.cpp) | _O(n)_ | _O(1)_      | Hard           ||
 
 
 ## Stack
