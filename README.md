@@ -9,6 +9,7 @@ LeetCode 代码和题解集合
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/3-Longest-Substring-Without-Repeating-Characters.cpp) | _O(n)_ | _O(1)_ | Medium | |
 |036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./C++/036.cpp) | _O(9^2)_         | _O(9)_          | Easy           ||
 |049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | [C++](./C++/049.cpp)  | _O(n * glogg)_          | _O(n)_          | Medium         ||
+|128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [C++](./C++/128.cpp)  | _O(n)_ | _O(n)_ | Hard         ||
 
 
 ## Linked List
@@ -122,9 +123,17 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [C++](./C++/094.cpp) | _O(n)_| _O(1)_| Medium           || |
+|684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [C++](./C++/684.cpp)  | _O(n)_ | _O(n)_ | Medium | 并查集 |
+|685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [C++](./C++/685.cpp)  | _O(n)_ | _O(n)_ | Hard ||
  
 ## Sort
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |056| [Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./C++/056.cpp) | _O(nlogn)_  | _O(1)_        | Medium          ||
 |057| [Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./C++/057.cpp) | _O(n)_    | _O(1)_          | Hard           ||
+
+## DFS
+|  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
+|130| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](./C++/130.cpp) | _O(m * n)_ | _O(m + n)_ | Medium         ||
+|200| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/200.cpp) | _O(m * n)_ | _O(m * n)_| Medium         ||
