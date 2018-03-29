@@ -37,6 +37,9 @@ LeetCode 代码和题解集合
 |050| [Pow(x, n)](https://leetcode.com/problems/powx-n/)     | [C++](./C++/050.cpp)     | _O(1)_       | _O(1)_       | Medium         | 快速幂运算 |
 | 060| [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./C++/060.cpp)  | _O(n^2)_ | _O(n)_  | Medium         ||
 |065| [Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./C++/065.cpp) | _O(n)_         | _O(1)_          | Hard | 匹配 |
+|201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C++](./C++/201.cpp)  | _O(1)_ | _O(1)_ | Medium ||
+|231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./C++/231.cpp) | _O(1)_ | _O(1)_ | Easy | 位运算巧妙用法 |
+
 
 ## String
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
@@ -94,6 +97,7 @@ LeetCode 代码和题解集合
 |062| [Unique Paths](https://leetcode.com/problems/unique-paths/)    | [C++](./C++/062.cpp) | _O(m * n)_      | _O(m + n)_   | Medium         ||
 | 063| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](./C++/063.cpp) |  _O(m * n)_ | _O(m + n)_   | Medium         ||
 |064| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./C++/064.cpp)| _O(m * n)_ | _O(m + n)_     | Medium         ||
+|416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/416.cpp) | _O(n * s)_ | _O(s)_ | Medium ||
 
 
 
@@ -131,6 +135,8 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |056| [Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./C++/056.cpp) | _O(nlogn)_  | _O(1)_        | Medium          ||
 |057| [Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./C++/057.cpp) | _O(n)_    | _O(1)_          | Hard           ||
+|307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./C++/307.cpp) | ctor: _O(n)_, update: _O(logn)_, query:  _O(logn)_ | _O(n)_ | Medium | 树状数组 线段树 |
+
 
 ## DFS
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
