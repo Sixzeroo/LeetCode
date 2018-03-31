@@ -37,6 +37,10 @@ LeetCode 代码和题解集合
 |050| [Pow(x, n)](https://leetcode.com/problems/powx-n/)     | [C++](./C++/050.cpp)     | _O(1)_       | _O(1)_       | Medium         | 快速幂运算 |
 | 060| [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./C++/060.cpp)  | _O(n^2)_ | _O(n)_  | Medium         ||
 |065| [Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./C++/065.cpp) | _O(n)_         | _O(1)_          | Hard | 匹配 |
+|136 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](./C++/136.cpp)  | _O(n)_       | _O(1)_          | Easy         | 异或操作 |
+|137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [C++](./C++/137.cpp) | _O(n)_ | _O(1)_          | Medium         |  |
+|190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [C++](./C++/190.cpp) | _O(1)_        | _O(1)_          | Easy           | 位操作 |
+|191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./C++/191.cpp) | _O(1)_ | _O(1)_          | Easy           | 按位与 |
 |201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C++](./C++/201.cpp)  | _O(1)_ | _O(1)_ | Medium ||
 |231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./C++/231.cpp) | _O(1)_ | _O(1)_ | Easy | 位运算巧妙用法 |
 
@@ -78,6 +82,7 @@ LeetCode 代码和题解集合
 |054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./C++/054.cpp) | _O(m * n)_    | _O(1)_         | Medium         ||
 |059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./C++/059.cpp)  | _O(n^2)_ | _O(1)_      | Medium         ||
 |066 | [Plus One](https://leetcode.com/problems/plus-one/)      | [C++](./C++/066.cpp)  | _O(n)_           | _O(1)_         | Easy           || 
+|073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./C++/073.cpp) | _O(m * n)_ | _O(1)_    | Medium         ||
 
 
 ## Binary Search
@@ -86,6 +91,8 @@ LeetCode 代码和题解集合
 |004| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./C++/004.cpp)  | _O(log(min(m, n)))_ | _O(1)_ | Hard         |[here](https://www.liuin.cn/2018/03/08/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Median-of-Two-Sorted-Arrays/)|
 |033| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./C++/033.cpp)  | _O(logn)_ | _O(1)_   | Hard         | 坐标转换+二分法 |
 |034| [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./C++/034.cpp)  | _O(logn)_ | _O(1)_   | Medium         ||
+|069| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)       | [C++](./C++/069.cpp)     | _O(logn)_        | _O(1)_         | Medium         ||
+
 
 ## DP
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解| 
