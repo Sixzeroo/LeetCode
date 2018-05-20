@@ -37,6 +37,7 @@ LeetCode 代码和题解集合
 |050| [Pow(x, n)](https://leetcode.com/problems/powx-n/)     | [C++](./C++/050.cpp)     | _O(1)_       | _O(1)_       | Medium         | 快速幂运算 |
 | 060| [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./C++/060.cpp)  | _O(n^2)_ | _O(n)_  | Medium         ||
 |065| [Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./C++/065.cpp) | _O(n)_         | _O(1)_          | Hard | 匹配 |
+|070| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./C++/070.cpp) | _O(n)_    | _O(1)_          | Easy           | 斐波那契数列 |
 |136 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](./C++/136.cpp)  | _O(n)_       | _O(1)_          | Easy         | 异或操作 |
 |137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [C++](./C++/137.cpp) | _O(n)_ | _O(1)_          | Medium         |  |
 |190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [C++](./C++/190.cpp) | _O(1)_        | _O(1)_          | Easy           | 位操作 |
