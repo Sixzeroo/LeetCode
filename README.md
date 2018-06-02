@@ -10,6 +10,7 @@ LeetCode 代码和题解集合
 |036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./C++/036.cpp) | _O(9^2)_         | _O(9)_          | Easy           ||
 |049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | [C++](./C++/049.cpp)  | _O(n * glogg)_          | _O(n)_          | Medium         ||
 |128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [C++](./C++/128.cpp)  | _O(n)_ | _O(n)_ | Hard         ||
+|149| [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [C++](./C++/149.cpp) | _O(n^2)_ | _O(n)_ | Hard          ||
 
 
 ## Linked List
