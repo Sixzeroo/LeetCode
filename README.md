@@ -60,6 +60,7 @@ LeetCode 代码和题解集合
 |058| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./C++/058.cpp) | _O(n)_   | _O(1)_  | Easy||
 | 067| [Add Binary](https://leetcode.com/problems/add-binary/)    | [C++](./C++/067.cpp) | _O(n)_          | _O(1)_          | Easy           ||
 |068| [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](./C++/068.cpp) | _O(n)_ | _O(1)_      | Hard           ||
+|071| [Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](./C++/071.cpp)  | _O(n)_        | _O(n)_          | Medium         ||
 
 
 ## Stack
@@ -131,6 +132,9 @@ LeetCode 代码和题解集合
 |047| [Permutations II](https://leetcode.com/problems/permutations-ii/)| [C++](./C++/047.cpp) | _O(n * n!)_   | _O(n)_          | Medium           ||
 |051| [N-Queens](https://leetcode.com/problems/n-queens/)      | [C++](./C++/051.cpp)   | _O(n!)_         | _O(n)_          | Hard           | 值得优化 |
 |052| [N-Queens-II](https://leetcode.com/problems/n-queens-ii/)   | [C++](./C++/052.cpp) | _O(n!)_        | _O(n)_          | Hard           | 值得优化 |
+|077| [Combinations](https://leetcode.com/problems/combinations/)  | [C++](./C++/077.cpp) | _O(O(k * C(n, k)))_ | _O(k)_           | Medium         ||
+|078| [Subsets](https://leetcode.com/problems/subsets/)       | [C++](./C++/078.cpp)   | _O(n * 2^n)_    | _O(1)_          | Medium         ||
+|079| [Word Search](https://leetcode.com/problems/word-search/) | [C++](./C++/079.cpp) | _O(m * n * l)_ | _O(l)_ | Medium         ||
 |357| [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./C++/357.cpp) | _O(n!)_ | _O(1)_ | Medium || DP实现 |
 
 ## Tree
@@ -145,6 +149,7 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 |056| [Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./C++/056.cpp) | _O(nlogn)_  | _O(1)_        | Medium          ||
 |057| [Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./C++/057.cpp) | _O(n)_    | _O(1)_          | Hard           ||
+|075| [Sort Colors](https://leetcode.com/problems/sort-colors/)   | [C++](./C++/075.cpp) | _O(n)_         | _O(1)_          | Medium         | 三指针 |
 |307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./C++/307.cpp) | ctor: _O(n)_, update: _O(logn)_, query:  _O(logn)_ | _O(n)_ | Medium | 树状数组 线段树 |
 
 
