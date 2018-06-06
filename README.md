@@ -68,6 +68,8 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
 |020| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./C++/20-Valid-Parentheses.cpp) | _O(n)_        | _O(n)_          | Easy           || |
 |032| [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./C++/032-2.cpp)  | _O(n)_ | _O(1)_ | Hard   |[here]()| |
+|084| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/084.cpp) | _O(n)_ | _O(n)_ | Hard | 递增栈 | :triangular_flag_on_post: |
+|085| [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [C++](./C++/085.cpp) | _O(m * n)_ | _O(n)_         | Hard           | 递增栈 | :triangular_flag_on_post: |
 
 
 ## Array
