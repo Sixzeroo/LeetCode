@@ -24,6 +24,7 @@ LeetCode 代码和题解集合
 |024| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./C++/024.cpp)   | _O(n)_          | _O(1)_          | Easy         || |
 |025| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./C++/025.cpp) | _O(n)_       | _O(1)_         | Hard         || :triangular_flag_on_post: |
 |061| [Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./C++/061.cpp)  | _O(n)_          | _O(1)_          | Medium         || :triangular_flag_on_post: |
+|082| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./C++/082.cpp) | _O(n)_       | _O(1)_         | Medium         || :triangular_flag_on_post: |
 |086| [Partition List](https://leetcode.com/problems/partition-list/)| [C++](./C++/086.cpp) | _O(n)_       | _O(1)_         | Medium         || |
 
 
@@ -100,6 +101,7 @@ LeetCode 代码和题解集合
 |033| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./C++/033.cpp)  | _O(logn)_ | _O(1)_   | Hard         | 坐标转换+二分法 | |
 |034| [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./C++/034.cpp)  | _O(logn)_ | _O(1)_   | Medium         || |
 |069| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)       | [C++](./C++/069.cpp)     | _O(logn)_        | _O(1)_         | Medium         || |
+|081| [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](./C++/081.cpp)  | _O(logn)_ | _O(1)_   | Medium         || :triangular_flag_on_post: |
 
 
 ## DP
