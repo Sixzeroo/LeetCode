@@ -102,6 +102,9 @@ LeetCode 代码和题解集合
 |034| [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./C++/034.cpp)  | _O(logn)_ | _O(1)_   | Medium         || |
 |069| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)       | [C++](./C++/069.cpp)     | _O(logn)_        | _O(1)_         | Medium         || |
 |081| [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](./C++/081.cpp)  | _O(logn)_ | _O(1)_   | Medium         || :triangular_flag_on_post: |
+|153| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)         | [C++](./C++/105.cpp)      | _O(logn)_        | _O(1)_          | Medium         || |
+|154| [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)      | [C++](./C++/154.cpp)  | _O(logn)_ ~ _O(n)_        | _O(1)_          | Hard         || :triangular_flag_on_post: |
+
 
 
 ## DP
@@ -118,6 +121,7 @@ LeetCode 代码和题解集合
 |087| [Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/087.cpp) | _O(n^4)_ | _O(n^3)_        | Hard           || :triangular_flag_on_post: |
 |097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](./C++/097.cpp)| _O(m * n)_ | _O(m + n)_ | Hard         || :triangular_flag_on_post: |
 |115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./C++/115.cpp)| _O(n^2)_ | _O(n)_ | Hard           | :triangular_flag_on_post: |
+|188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
 |416| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/416.cpp) | _O(n * s)_ | _O(s)_ | Medium || |
 
 
@@ -154,6 +158,7 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
 |094| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [C++](./C++/094.cpp) | _O(n)_| _O(1)_| Medium           || | |
 |099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./C++/099.cpp) | _O(n)_| _O(n)_| Hard  || :triangular_flag_on_post: |
+|145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./C++/145.cpp) | _O(n)_| _O(1)_| Hard  | 后序遍历 | :triangular_flag_on_post: |
 |684| [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [C++](./C++/684.cpp)  | _O(n)_ | _O(n)_ | Medium | 并查集 | |
 |685| [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [C++](./C++/685.cpp)  | _O(n)_ | _O(n)_ | Hard || |
  
@@ -163,6 +168,7 @@ LeetCode 代码和题解集合
 |056| [Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./C++/056.cpp) | _O(nlogn)_  | _O(1)_        | Medium          || |
 |057| [Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./C++/057.cpp) | _O(n)_    | _O(1)_          | Hard           || |
 |075| [Sort Colors](https://leetcode.com/problems/sort-colors/)   | [C++](./C++/075.cpp) | _O(n)_         | _O(1)_          | Medium         | 三指针 | |
+|164| [Maximum Gap](https://leetcode.com/problems/maximum-gap/)   | [C++](./C++/164.cpp) | _O(n)_          | _O(n)_          | Hard  | 桶排序应用 | :triangular_flag_on_post: |
 |307| [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./C++/307.cpp) | ctor: _O(n)_, update: _O(logn)_, query:  _O(logn)_ | _O(n)_ | Medium | 树状数组 线段树 | |
 
 
