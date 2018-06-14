@@ -121,6 +121,7 @@ LeetCode 代码和题解集合
 |087| [Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/087.cpp) | _O(n^4)_ | _O(n^3)_        | Hard           || :triangular_flag_on_post: |
 |097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](./C++/097.cpp)| _O(m * n)_ | _O(m + n)_ | Hard         || :triangular_flag_on_post: |
 |115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./C++/115.cpp)| _O(n^2)_ | _O(n)_ | Hard           | :triangular_flag_on_post: |
+|174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [C++](./C++/174.cpp) | _O(m * n)_     | _O(m + n)_      | Hard           || |
 |188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
 |416| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/416.cpp) | _O(n * s)_ | _O(s)_ | Medium || |
 
@@ -158,6 +159,7 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
 |094| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [C++](./C++/094.cpp) | _O(n)_| _O(1)_| Medium           || | |
 |099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./C++/099.cpp) | _O(n)_| _O(n)_| Hard  || :triangular_flag_on_post: |
+|124| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [C++](./C++/124.cpp) | _O(n)_| _O(h)_| Hard  || :triangular_flag_on_post: |
 |145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./C++/145.cpp) | _O(n)_| _O(1)_| Hard  | 后序遍历 | :triangular_flag_on_post: |
 |684| [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [C++](./C++/684.cpp)  | _O(n)_ | _O(n)_ | Medium | 并查集 | |
 |685| [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [C++](./C++/685.cpp)  | _O(n)_ | _O(n)_ | Hard || |
@@ -177,3 +179,8 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
 |130| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](./C++/130.cpp) | _O(m * n)_ | _O(m + n)_ | Medium         || |
 |200| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/200.cpp) | _O(m * n)_ | _O(m * n)_| Medium         ||
+
+## Design
+|  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
+|146| [LRU Cache](https://leetcode.com/problems/lru-cache/)     | [C++](./C++/146.cpp)  | _O(1)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
