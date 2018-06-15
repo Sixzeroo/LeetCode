@@ -121,6 +121,7 @@ LeetCode 代码和题解集合
 |087| [Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/087.cpp) | _O(n^4)_ | _O(n^3)_        | Hard           || :triangular_flag_on_post: |
 |097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](./C++/097.cpp)| _O(m * n)_ | _O(m + n)_ | Hard         || :triangular_flag_on_post: |
 |115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./C++/115.cpp)| _O(n^2)_ | _O(n)_ | Hard           | :triangular_flag_on_post: |
+|132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/132.cpp) | _O(n^2)_ | _O(n^2)_ | Hard || :triangular_flag_on_post: |
 |174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [C++](./C++/174.cpp) | _O(m * n)_     | _O(m + n)_      | Hard           || |
 |188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
 |416| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/416.cpp) | _O(n * s)_ | _O(s)_ | Medium || |
@@ -152,6 +153,9 @@ LeetCode 代码和题解集合
 |077| [Combinations](https://leetcode.com/problems/combinations/)  | [C++](./C++/077.cpp) | _O(O(k * C(n, k)))_ | _O(k)_           | Medium         || |
 |078| [Subsets](https://leetcode.com/problems/subsets/)       | [C++](./C++/078.cpp)   | _O(n * 2^n)_    | _O(1)_          | Medium         || |
 |079| [Word Search](https://leetcode.com/problems/word-search/) | [C++](./C++/079.cpp) | _O(m * n * l)_ | _O(l)_ | Medium         || |
+|126| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)   | [C++](./C++/126.cpp) | _O(n * d)_ | _O(d)_         | Hard         | BFS | :triangular_flag_on_post: |
+|127| [Word Ladder](https://leetcode.com/problems/word-ladder/)| [C++](./C++/127.cpp) | _O(n * d)_      | _O(d)_          | Medium         || |
+|131| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [C++](./C++/131.cpp) | _O(n^2)_ ~ _O(2^n)_ | _O(n^2)_ | Medium || |
 |357| [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./C++/357.cpp) | _O(n!)_ | _O(1)_ | Medium || DP实现 | |
 
 ## Tree
