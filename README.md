@@ -51,6 +51,7 @@ LeetCode 代码和题解集合
 ## String
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
+|005| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./C++/005.cpp)  | _O(n)_ | _O(n)_ |  Medium | Manacher算法 | :triangular_flag_on_post: |
 |006| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./C++/006.cpp)  | _O(n)_ | _O(1)_        | Easy           | 模拟法 | |
 |008| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./C++/008.cpp)  | _O(n)_ | _O(1)_ | Medium      | 模拟法| |
 |014| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./C++/14-Longest-Common-Prefix.cpp) | _O(n * k)_   | _O(1)_  | Easy           || |
