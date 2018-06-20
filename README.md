@@ -12,6 +12,7 @@ LeetCode 代码和题解集合
 |076| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/minimum-window-substring.cpp) [Python](./Python/minimum-window-substring.py) | _O(n)_ | _O(k)_ | Hard          || 
 |128| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [C++](./C++/128.cpp)  | _O(n)_ | _O(n)_ | Hard         || :triangular_flag_on_post: |
 |149| [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [C++](./C++/149.cpp) | _O(n^2)_ | _O(n)_ | Hard          || :triangular_flag_on_post: |
+|187| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [C++](./C++/187.cpp) | _O(n)_       | _O(n)_          | Medium         ||
 
 
 ## Linked List
