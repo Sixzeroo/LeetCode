@@ -26,6 +26,7 @@ LeetCode 代码和题解集合
 |025| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./C++/025.cpp) | _O(n)_       | _O(1)_         | Hard         || :triangular_flag_on_post: |
 |061| [Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./C++/061.cpp)  | _O(n)_          | _O(1)_          | Medium         || :triangular_flag_on_post: |
 |082| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./C++/082.cpp) | _O(n)_       | _O(1)_         | Medium         || :triangular_flag_on_post: |
+|083| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./C++/083.cpp) | _O(n)_       | _O(1)_         | Easy           || | 
 |086| [Partition List](https://leetcode.com/problems/partition-list/)| [C++](./C++/086.cpp) | _O(n)_       | _O(1)_         | Medium         || |
 
 
@@ -41,6 +42,7 @@ LeetCode 代码和题解集合
 |060| [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./C++/060.cpp)  | _O(n^2)_ | _O(n)_  | Medium         || |
 |065| [Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./C++/065.cpp) | _O(n)_         | _O(1)_          | Hard | 匹配 | |
 |070| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./C++/070.cpp) | _O(n)_    | _O(1)_          | Easy           | 斐波那契数列 | |
+|089| [Gray Code](https://leetcode.com/problems/gray-code/)     | [C++](./C++/089.cpp)  | _O(2^n)_        | _O(1)_          | Medium         || |
 |136| [Single Number](https://leetcode.com/problems/single-number/) | [C++](./C++/136.cpp)  | _O(n)_       | _O(1)_          | Easy         | 异或操作 | |
 |137| [Single Number II](https://leetcode.com/problems/single-number-ii/) | [C++](./C++/137.cpp) | _O(n)_ | _O(1)_          | Medium         |  | |
 |190| [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [C++](./C++/190.cpp) | _O(1)_        | _O(1)_          | Easy           | 位操作 | |
@@ -92,6 +94,7 @@ LeetCode 代码和题解集合
 |066| [Plus One](https://leetcode.com/problems/plus-one/)      | [C++](./C++/066.cpp)  | _O(n)_           | _O(1)_         | Easy           || 
 |073| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./C++/073.cpp) | _O(m * n)_ | _O(1)_    | Medium         || |
 |080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./C++/080.cpp) | _O(n)_       | _O(1)_         | Medium         | 双指针 | | 
+|088| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](./C++/088.cpp)  | _O(n)_ | _O(1)_       | Easy           || | 
 |121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./C++/121.cpp)  | _O(n)_ | _O(1)_ | Easy | 逆向思维 | :triangular_flag_on_post: | 
 
 
