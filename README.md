@@ -190,6 +190,7 @@ LeetCode 代码和题解集合
 ## DFS
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
+|090| [Subsets II](https://leetcode.com/problems/subsets-ii/)    | [C++](./C++/090.cpp) | _O(n * 2^n)_    | _O(1)_          | Medium         || |
 |130| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](./C++/130.cpp) | _O(m * n)_ | _O(m + n)_ | Medium         || |
 |200| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/200.cpp) | _O(m * n)_ | _O(m * n)_| Medium         ||
 
