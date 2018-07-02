@@ -126,6 +126,7 @@ LeetCode 代码和题解集合
 |064| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./C++/064.cpp)| _O(m * n)_ | _O(m + n)_     | Medium         || |
 |072| [Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./C++/072.cpp)| _O(m * n)_      | _O(m + n)_      | Hard           |空间待优化| |
 |087| [Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/087.cpp) | _O(n^4)_ | _O(n^3)_        | Hard           || :triangular_flag_on_post: |
+|096| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [C++](./C++/096.cpp) | _O(n)_      | _O(1)_         | Medium         ||  |
 |097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](./C++/097.cpp)| _O(m * n)_ | _O(m + n)_ | Hard         || :triangular_flag_on_post: |
 |115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./C++/115.cpp)| _O(n^2)_ | _O(n)_ | Hard           | :triangular_flag_on_post: |
 |132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/132.cpp) | _O(n^2)_ | _O(n^2)_ | Hard || :triangular_flag_on_post: |
