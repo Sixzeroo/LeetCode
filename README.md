@@ -9,7 +9,7 @@ LeetCode 代码和题解集合
 |003| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/3-Longest-Substring-Without-Repeating-Characters.cpp) | _O(n)_ | _O(1)_ | Medium | | :triangular_flag_on_post: |
 |036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./C++/036.cpp) | _O(9^2)_         | _O(9)_          | Easy           || |
 |049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | [C++](./C++/049.cpp)  | _O(n * glogg)_          | _O(n)_          | Medium         || :triangular_flag_on_post: |
-|076| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/minimum-window-substring.cpp) [Python](./Python/minimum-window-substring.py) | _O(n)_ | _O(k)_ | Hard          || 
+|076| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/076.cpp) | _O(n)_ | _O(k)_ | Hard          || 
 |128| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [C++](./C++/128.cpp)  | _O(n)_ | _O(n)_ | Hard         || :triangular_flag_on_post: |
 |149| [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [C++](./C++/149.cpp) | _O(n^2)_ | _O(n)_ | Hard          || :triangular_flag_on_post: |
 |187| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [C++](./C++/187.cpp) | _O(n)_       | _O(n)_          | Medium         ||
@@ -28,6 +28,8 @@ LeetCode 代码和题解集合
 |082| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./C++/082.cpp) | _O(n)_       | _O(1)_         | Medium         || :triangular_flag_on_post: |
 |083| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./C++/083.cpp) | _O(n)_       | _O(1)_         | Easy           || | 
 |086| [Partition List](https://leetcode.com/problems/partition-list/)| [C++](./C++/086.cpp) | _O(n)_       | _O(1)_         | Medium         || |
+|092| [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./C++/092.cpp)  | _O(n)_       | _O(1)_         | Medium         |||
+|206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](./C++/206.cpp)  | _O(n)_       | _O(1)_         | Easy         || |
 
 
 ## Math
@@ -135,7 +137,7 @@ LeetCode 代码和题解集合
 |188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
 |322| [Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./C++/322.cpp) | _O(n * k)_ | _O(k)_ | Medium || :triangular_flag_on_post: |
 |416| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/416.cpp) | _O(n * s)_ | _O(s)_ | Medium || |
-|486| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | [C++](./C++/486.cpp) | _O(n^2)_ | _O(n)_ | Medium | | 待提升 |
+|486| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | [C++](./C++/486.cpp) | _O(n^2)_ | _O(n)_ | Medium | | :triangular_flag_on_post: |
 
 
 
@@ -146,6 +148,7 @@ LeetCode 代码和题解集合
 |042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/042.cpp) | _O(n)_ | _O(1)_ | Hard | 双指针，巧妙方法 | 
 |045| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [C++](./C++/045.cpp) | _O(n)_        | _O(1)_          | Hard           || |
 |055| [Jump Game](https://leetcode.com/problems/jump-game/)     | [C++](./C++/055.cpp)  | _O(n)_          | _O(1)_          | Medium         || |
+|091| [Decode Ways](https://leetcode.com/problems/decode-ways/)   | [C++](./C++/091.cpp) | _O(n)_          | _O(n)_          | Medium         || :triangular_flag_on_post: |
 |122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [C++](./C++/122.cpp) | _O(n)_ | _O(1)_ | Easy || |
 |123| [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./C++/123.cpp) | _O(n)_ | _O(1)_ | Hard ||
 
