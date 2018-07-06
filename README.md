@@ -29,6 +29,7 @@ LeetCode 代码和题解集合
 |083| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./C++/083.cpp) | _O(n)_       | _O(1)_         | Easy           || | 
 |086| [Partition List](https://leetcode.com/problems/partition-list/)| [C++](./C++/086.cpp) | _O(n)_       | _O(1)_         | Medium         || |
 |092| [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./C++/092.cpp)  | _O(n)_       | _O(1)_         | Medium         |||
+|141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](./C++/141.cpp) | _O(n)_ | _O(1)_         | Easy         |||
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](./C++/206.cpp)  | _O(n)_       | _O(1)_         | Easy         || |
 
 
