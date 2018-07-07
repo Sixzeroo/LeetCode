@@ -99,8 +99,9 @@ LeetCode 代码和题解集合
 |066| [Plus One](https://leetcode.com/problems/plus-one/)      | [C++](./C++/066.cpp)  | _O(n)_           | _O(1)_         | Easy           || 
 |073| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./C++/073.cpp) | _O(m * n)_ | _O(1)_    | Medium         || |
 |080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./C++/080.cpp) | _O(n)_       | _O(1)_         | Medium         | 双指针 | | 
-|088| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](./C++/088.cpp)  | _O(n)_ | _O(1)_       | Easy           || | 
-|121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./C++/121.cpp)  | _O(n)_ | _O(1)_ | Easy | 逆向思维 | :triangular_flag_on_post: | 
+|088| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](./C++/088.cpp)  | _O(n)_ | _O(1)_       | Easy           || |
+|118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./C++/118.cpp) | _O(n^2)_ | _O(1)_        | Easy           |||
+|121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./C++/121.cpp)  | _O(n)_ | _O(1)_ | Easy | 逆向思维 | :triangular_flag_on_post: |
 
 
 
