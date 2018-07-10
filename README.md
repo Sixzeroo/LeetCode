@@ -221,3 +221,5 @@ LeetCode 代码和题解集合
 |098| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [C++](./C++/098.cpp) | _O(n)_ | _O(1)_ | Medium |||
 |104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [C++](./C++/maximum-depth-of-binary-tree.cpp) | _O(n)_ | _O(h)_ | Easy || |
 |108| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./C++/108.cpp) | _O(n)_        | _O(logn)_          | Medium         || |
+|105| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./C++/105.cpp) | _O(n)_        | _O(n)_          | Medium   || :triangular_flag_on_post: |
+|106| [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./C++/106.cpp) | _O(n)_        | _O(n)_          | Medium         |||
