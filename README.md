@@ -225,3 +225,5 @@ LeetCode 代码和题解集合
 |106| [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./C++/106.cpp) | _O(n)_        | _O(n)_          | Medium         |||
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C++](./C++/109.cpp) | _O(n)_        | _O(logn)_          | Medium         || :triangular_flag_on_post: |
 |110| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./C++/110.cpp) | _O(n)_| _O(h)_   | Easy           |||
+|111| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./C++/111.cpp) | _O(n)_ | _O(h)_ | Easy |||
+|112| [Path Sum](https://leetcode.com/problems/path-sum/)      | [C++](./C++/112.cpp)   | _O(n)_          | _O(h)_          | Easy           |||
