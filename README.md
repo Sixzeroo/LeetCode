@@ -182,6 +182,8 @@ LeetCode 代码和题解集合
 |094| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [C++](./C++/094.cpp) | _O(n)_| _O(1)_| Medium           || | |
 |099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./C++/099.cpp) | _O(n)_| _O(n)_| Hard  || :triangular_flag_on_post: |
 |100| [Same Tree](https://leetcode.com/problems/same-tree/)      |[C+](./C++/100.cpp)  | _O(n)_          | _O(h)_        | Easy          || |
+|116| [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [C++](./C++/116.cpp) | _O(n)_ | _O(logn)_ | Medium |||
+|117| [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [C++](./C++/117.cpp) | _O(n)_ | _O(1)_ | Hard |||
 |124| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [C++](./C++/124.cpp) | _O(n)_| _O(h)_| Hard  || :triangular_flag_on_post: |
 |145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./C++/145.cpp) | _O(n)_| _O(1)_| Hard  | 后序遍历 | :triangular_flag_on_post: |
 |684| [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [C++](./C++/684.cpp)  | _O(n)_ | _O(n)_ | Medium | 并查集 | |
@@ -228,3 +230,4 @@ LeetCode 代码和题解集合
 |110| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./C++/110.cpp) | _O(n)_| _O(h)_   | Easy           |||
 |111| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./C++/111.cpp) | _O(n)_ | _O(h)_ | Easy |||
 |112| [Path Sum](https://leetcode.com/problems/path-sum/)      | [C++](./C++/112.cpp)   | _O(n)_          | _O(h)_          | Easy           |||
+|114| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./C++/114.cpp)| _O(n)_        | _O(h)_          | Medium         || :triangular_flag_on_post: |
