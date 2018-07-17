@@ -69,6 +69,7 @@ LeetCode 代码和题解集合
 |067| [Add Binary](https://leetcode.com/problems/add-binary/)    | [C++](./C++/067.cpp) | _O(n)_          | _O(1)_          | Easy           || |
 |068| [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](./C++/068.cpp) | _O(n)_ | _O(1)_      | Hard           || |
 |071| [Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](./C++/071.cpp)  | _O(n)_        | _O(n)_          | Medium         || |
+|125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./C++/125.cpp) | _O(n)_  | _O(1)_         | Easy           |||
 
 
 ## Stack
@@ -135,6 +136,7 @@ LeetCode 代码和题解集合
 |096| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [C++](./C++/096.cpp) | _O(n)_      | _O(1)_         | Medium         |||
 |097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](./C++/097.cpp)| _O(m * n)_ | _O(m + n)_ | Hard         || :triangular_flag_on_post: |
 |115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./C++/115.cpp)| _O(n^2)_ | _O(n)_ | Hard           | :triangular_flag_on_post: |
+|120| [Triangle](https://leetcode.com/problems/triangle/)       | [C++](./C++/120.cpp) | _O(m * n)_      | _O(n)_         | Medium         |||
 |132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/132.cpp) | _O(n^2)_ | _O(n^2)_ | Hard || :triangular_flag_on_post: |
 |174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [C++](./C++/174.cpp) | _O(m * n)_     | _O(m + n)_      | Hard           || |
 |188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
@@ -232,3 +234,4 @@ LeetCode 代码和题解集合
 |111| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./C++/111.cpp) | _O(n)_ | _O(h)_ | Easy |||
 |112| [Path Sum](https://leetcode.com/problems/path-sum/)      | [C++](./C++/112.cpp)   | _O(n)_          | _O(h)_          | Easy           |||
 |114| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./C++/114.cpp)| _O(n)_        | _O(h)_          | Medium         || :triangular_flag_on_post: |
+|129| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [C++](./C++/129.cpp) | _O(n)_ | _O(h)_ | Medium |||
