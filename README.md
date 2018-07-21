@@ -29,6 +29,7 @@ LeetCode 代码和题解集合
 |083| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./C++/083.cpp) | _O(n)_       | _O(1)_         | Easy           || | 
 |086| [Partition List](https://leetcode.com/problems/partition-list/)| [C++](./C++/086.cpp) | _O(n)_       | _O(1)_         | Medium         || |
 |092| [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./C++/092.cpp)  | _O(n)_       | _O(1)_         | Medium         |||
+|138| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./C++/138.cpp)  | _O(n)_   | _O(1)_          | Hard         || :triangular_flag_on_post: |
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](./C++/141.cpp) | _O(n)_ | _O(1)_         | Easy         |||
 |142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [C++](./C++/142.cpp) | _O(n)_ | _O(1)_   | Medium         || :triangular_flag_on_post: |
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](./C++/206.cpp)  | _O(n)_       | _O(1)_         | Easy         || |
@@ -158,6 +159,7 @@ LeetCode 代码和题解集合
 |122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [C++](./C++/122.cpp) | _O(n)_ | _O(1)_ | Easy || |
 |123| [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./C++/123.cpp) | _O(n)_ | _O(1)_ | Hard ||
 |134| [Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./C++/134.cpp)   | _O(n)_          | _O(1)_          | Medium         || :triangular_flag_on_post: |
+|135| [Candy](https://leetcode.com/problems/candy/)| [C++](./C++/135.cpp) | _O(n)_ | _O(n)_ | Hard || :triangular_flag_on_post: |
 
 ## Backtracking
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
