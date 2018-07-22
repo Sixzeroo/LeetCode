@@ -32,6 +32,7 @@ LeetCode 代码和题解集合
 |138| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./C++/138.cpp)  | _O(n)_   | _O(1)_          | Hard         || :triangular_flag_on_post: |
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](./C++/141.cpp) | _O(n)_ | _O(1)_         | Easy         |||
 |142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [C++](./C++/142.cpp) | _O(n)_ | _O(1)_   | Medium         || :triangular_flag_on_post: |
+|143| [Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./C++/143.cpp) | _O(n)_          |  _O(1)_         | Medium         |||
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](./C++/206.cpp)  | _O(n)_       | _O(1)_         | Easy         || |
 
 
@@ -140,6 +141,8 @@ LeetCode 代码和题解集合
 |115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./C++/115.cpp)| _O(n^2)_ | _O(n)_ | Hard           | :triangular_flag_on_post: |
 |120| [Triangle](https://leetcode.com/problems/triangle/)       | [C++](./C++/120.cpp) | _O(m * n)_      | _O(n)_         | Medium         |||
 |132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/132.cpp) | _O(n^2)_ | _O(n^2)_ | Hard || :triangular_flag_on_post: |
+|139| [Word Break](https://leetcode.com/problems/word-break/)     | [C++](./C++/139.cpp) |  _O(n * l^2)_         | _O(n)_       | Medium         || :triangular_flag_on_post: |
+|140| [Word Break II](https://leetcode.com/problems/word-break-ii/)  | [C++](./C++/140.cpp) |  _O(n * l^2 + n * r)_      | _O(n^2)_       | Hard           || :triangular_flag_on_post: |
 |174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [C++](./C++/174.cpp) | _O(m * n)_     | _O(m + n)_      | Hard           || |
 |188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
 |322| [Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./C++/322.cpp) | _O(n * k)_ | _O(k)_ | Medium || :triangular_flag_on_post: |
