@@ -145,6 +145,7 @@ LeetCode 代码和题解集合
 |140| [Word Break II](https://leetcode.com/problems/word-break-ii/)  | [C++](./C++/140.cpp) |  _O(n * l^2 + n * r)_      | _O(n^2)_       | Hard           || :triangular_flag_on_post: |
 |174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [C++](./C++/174.cpp) | _O(m * n)_     | _O(m + n)_      | Hard           || |
 |188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
+|198| [House Robber](https://leetcode.com/problems/house-robber/)| [C++](./C++/198.cpp) | _O(n)_          | _O(1)_          | Easy           |||
 |322| [Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./C++/322.cpp) | _O(n * k)_ | _O(k)_ | Medium || :triangular_flag_on_post: |
 |416| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/416.cpp) | _O(n * s)_ | _O(s)_ | Medium || |
 |486| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | [C++](./C++/486.cpp) | _O(n^2)_ | _O(n)_ | Medium | | :triangular_flag_on_post: |
