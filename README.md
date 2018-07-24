@@ -33,6 +33,8 @@ LeetCode 代码和题解集合
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](./C++/141.cpp) | _O(n)_ | _O(1)_         | Easy         |||
 |142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [C++](./C++/142.cpp) | _O(n)_ | _O(1)_   | Medium         || :triangular_flag_on_post: |
 |143| [Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./C++/143.cpp) | _O(n)_          |  _O(1)_         | Medium         |||
+|147| [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](./C++/147.cpp) | _O(n^2)_ | _O(1)_    | Medium         |||
+|148| [Sort List](https://leetcode.com/problems/sort-list/)     | [C++](./C++/148.cpp) | _O(nlogn)_      | _O(logn)_       | Medium         | 链表的归并排序实现 | :triangular_flag_on_post: |
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](./C++/206.cpp)  | _O(n)_       | _O(1)_         | Easy         || |
 
 
@@ -83,6 +85,7 @@ LeetCode 代码和题解集合
 |084| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/084.cpp) | _O(n)_ | _O(n)_ | Hard | 递增栈 | :triangular_flag_on_post: |
 |085| [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [C++](./C++/085.cpp) | _O(m * n)_ | _O(n)_         | Hard           | 递增栈 | :triangular_flag_on_post: |
 |101| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [C++](./C++/101.cpp)  | _O(n)_      | _O(h)_          | Easy           || |
+|150| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./C++/150.cpp) | _O(n)_| _O(n)_| Medium          |||
 |227| [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [C++](./C++/227.cpp) | _O(n)_| _O(n)_| Medium || :triangular_flag_on_post: |
 
 
