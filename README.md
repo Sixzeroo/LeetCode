@@ -35,6 +35,8 @@ LeetCode 代码和题解集合
 |143| [Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./C++/143.cpp) | _O(n)_          |  _O(1)_         | Medium         |||
 |147| [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](./C++/147.cpp) | _O(n^2)_ | _O(1)_    | Medium         |||
 |148| [Sort List](https://leetcode.com/problems/sort-list/)     | [C++](./C++/148.cpp) | _O(nlogn)_      | _O(logn)_       | Medium         | 链表的归并排序实现 | :triangular_flag_on_post: |
+|160| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](./C++/160.cpp) | _O(m + n)_ | _O(1)_         | Easy           || :triangular_flag_on_post: |
+|162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./C++/162.cpp)        | _O(logn)_       | _O(1)_          | Medium         |||
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](./C++/206.cpp)  | _O(n)_       | _O(1)_         | Easy         || |
 
 
@@ -75,6 +77,7 @@ LeetCode 代码和题解集合
 |068| [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](./C++/068.cpp) | _O(n)_ | _O(1)_      | Hard           || |
 |071| [Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](./C++/071.cpp)  | _O(n)_        | _O(n)_          | Medium         || |
 |125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./C++/125.cpp) | _O(n)_  | _O(1)_         | Easy           |||
+|151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./C++/151.cpp) | _O(n)_ | _O(1)_ | Medium         |||
 
 
 ## Stack
@@ -86,6 +89,7 @@ LeetCode 代码和题解集合
 |085| [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [C++](./C++/085.cpp) | _O(m * n)_ | _O(n)_         | Hard           | 递增栈 | :triangular_flag_on_post: |
 |101| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [C++](./C++/101.cpp)  | _O(n)_      | _O(h)_          | Easy           || |
 |150| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./C++/150.cpp) | _O(n)_| _O(n)_| Medium          |||
+|155| [Min Stack](https://leetcode.com/problems/min-stack/)     | [C++](./C++/155.cpp) | _O(n)_          | _O(1)_          | Easy           |||
 |227| [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [C++](./C++/227.cpp) | _O(n)_| _O(n)_| Medium || :triangular_flag_on_post: |
 
 
@@ -146,6 +150,7 @@ LeetCode 代码和题解集合
 |132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/132.cpp) | _O(n^2)_ | _O(n^2)_ | Hard || :triangular_flag_on_post: |
 |139| [Word Break](https://leetcode.com/problems/word-break/)     | [C++](./C++/139.cpp) |  _O(n * l^2)_         | _O(n)_       | Medium         || :triangular_flag_on_post: |
 |140| [Word Break II](https://leetcode.com/problems/word-break-ii/)  | [C++](./C++/140.cpp) |  _O(n * l^2 + n * r)_      | _O(n^2)_       | Hard           || :triangular_flag_on_post: |
+|152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [C++](./C++/152.cpp) | _O(n)_ | _O(1)_ | Medium     || :triangular_flag_on_post: |
 |174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [C++](./C++/174.cpp) | _O(m * n)_     | _O(m + n)_      | Hard           || |
 |188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
 |198| [House Robber](https://leetcode.com/problems/house-robber/)| [C++](./C++/198.cpp) | _O(n)_          | _O(1)_          | Easy           |||
