@@ -38,6 +38,7 @@ LeetCode 代码和题解集合
 |160| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](./C++/160.cpp) | _O(m + n)_ | _O(1)_         | Easy           || :triangular_flag_on_post: |
 |162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./C++/162.cpp)        | _O(logn)_       | _O(1)_          | Medium         |||
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](./C++/206.cpp)  | _O(n)_       | _O(1)_         | Easy         || |
+|599| [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) |[C++](./C++/599.cpp)  | _O((m + n) * l)_ | _O(m * l)_ | Easy         | ||
 
 
 ## Math
@@ -55,6 +56,10 @@ LeetCode 代码和题解集合
 |089| [Gray Code](https://leetcode.com/problems/gray-code/)     | [C++](./C++/089.cpp)  | _O(2^n)_        | _O(1)_          | Medium         || |
 |136| [Single Number](https://leetcode.com/problems/single-number/) | [C++](./C++/136.cpp)  | _O(n)_       | _O(1)_          | Easy         | 异或操作 | |
 |137| [Single Number II](https://leetcode.com/problems/single-number-ii/) | [C++](./C++/137.cpp) | _O(n)_ | _O(1)_          | Medium         |  | |
+|166| [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./C++/166.cpp) | _O(logn)_ | _O(1)_ | Medium         |||
+|168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./C++/168.cpp) | _O(logn)_ | _O(1)_ | Easy || :triangular_flag_on_post: |
+|171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./C++/171.cpp)  | _O(n)_ | _O(1)_ | Easy  |||
+|172| [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./C++/172.cpp)  | _O(1)_ | _O(1)_ | Easy         |||
 |190| [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [C++](./C++/190.cpp) | _O(1)_        | _O(1)_          | Easy           | 位操作 | |
 |191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./C++/191.cpp) | _O(1)_ | _O(1)_          | Easy           | 按位与 | |
 |201| [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C++](./C++/201.cpp)  | _O(1)_ | _O(1)_ | Medium || |
@@ -78,6 +83,7 @@ LeetCode 代码和题解集合
 |071| [Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](./C++/071.cpp)  | _O(n)_        | _O(n)_          | Medium         || |
 |125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./C++/125.cpp) | _O(n)_  | _O(1)_         | Easy           |||
 |151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./C++/151.cpp) | _O(n)_ | _O(1)_ | Medium         |||
+|165| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./C++/165.cpp) | _O(n)_ | _O(1)_ | Easy     |||
 
 
 ## Stack
@@ -114,6 +120,8 @@ LeetCode 代码和题解集合
 |118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./C++/118.cpp) | _O(n^2)_ | _O(1)_        | Easy           |||
 |119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./C++/119.cpp)  | _O(n^2)_ | _O(1)_  | Easy           |||
 |121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./C++/121.cpp)  | _O(n)_ | _O(1)_ | Easy | 逆向思维 | :triangular_flag_on_post: |
+|167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./C++/167.cpp) | _O(n)_   | _O(1)_         | Medium         | 双指针 | | 
+|169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./C++/169.cpp) | _O(n)_ | _O(1)_          | Easy |||
 
 
 
@@ -205,6 +213,7 @@ LeetCode 代码和题解集合
 |117| [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [C++](./C++/117.cpp) | _O(n)_ | _O(1)_ | Hard |||
 |124| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [C++](./C++/124.cpp) | _O(n)_| _O(h)_| Hard  || :triangular_flag_on_post: |
 |145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./C++/145.cpp) | _O(n)_| _O(1)_| Hard  | 后序遍历 | :triangular_flag_on_post: |
+|653 |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| [C++](./C++/653.cpp) | _O(n)_ | _O(h)_ | Easy | | 双指针 ||
 |684| [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [C++](./C++/684.cpp)  | _O(n)_ | _O(n)_ | Medium | 并查集 | |
 |685| [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [C++](./C++/685.cpp)  | _O(n)_ | _O(n)_ | Hard || |
  
