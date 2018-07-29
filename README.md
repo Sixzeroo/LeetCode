@@ -81,6 +81,7 @@ LeetCode 代码和题解集合
 |067| [Add Binary](https://leetcode.com/problems/add-binary/)    | [C++](./C++/067.cpp) | _O(n)_          | _O(1)_          | Easy           || |
 |068| [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](./C++/068.cpp) | _O(n)_ | _O(1)_      | Hard           || |
 |071| [Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](./C++/071.cpp)  | _O(n)_        | _O(n)_          | Medium         || |
+|179| [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./C++/179.cpp) | _O(nlogn)_   | _O(1)_        | Medium         |||
 |125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./C++/125.cpp) | _O(n)_  | _O(1)_         | Easy           |||
 |151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./C++/151.cpp) | _O(n)_ | _O(1)_ | Medium         |||
 |165| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./C++/165.cpp) | _O(n)_ | _O(1)_ | Easy     |||
@@ -123,7 +124,7 @@ LeetCode 代码和题解集合
 |121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./C++/121.cpp)  | _O(n)_ | _O(1)_ | Easy | 逆向思维 | :triangular_flag_on_post: |
 |167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./C++/167.cpp) | _O(n)_   | _O(1)_         | Medium         | 双指针 | | 
 |169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./C++/169.cpp) | _O(n)_ | _O(1)_          | Easy |||
-
+|189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)   | [C++](./C++/189.cpp) | _O(n)_        | _O(1)_         | Easy           |||
 
 
 ## Binary Search
@@ -233,6 +234,7 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
 |090| [Subsets II](https://leetcode.com/problems/subsets-ii/)    | [C++](./C++/090.cpp) | _O(n * 2^n)_    | _O(1)_          | Medium         || |
 |130| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](./C++/130.cpp) | _O(m * n)_ | _O(m + n)_ | Medium         || |
+|199| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | |[C++](./C++/199.cpp) | _O(n)_     | _O(h)_ | Medium  | 待完善 ||
 |200| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/200.cpp) | _O(m * n)_ | _O(m * n)_| Medium         ||
 
 ## BFS 
