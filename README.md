@@ -12,7 +12,8 @@ LeetCode 代码和题解集合
 |076| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/076.cpp) | _O(n)_ | _O(k)_ | Hard          || 
 |128| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [C++](./C++/128.cpp)  | _O(n)_ | _O(n)_ | Hard         || :triangular_flag_on_post: |
 |149| [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [C++](./C++/149.cpp) | _O(n^2)_ | _O(n)_ | Hard          || :triangular_flag_on_post: |
-|187| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [C++](./C++/187.cpp) | _O(n)_       | _O(n)_          | Medium         ||
+|187| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [C++](./C++/187.cpp) | _O(n)_       | _O(n)_          | Medium         |||
+|771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](./C++/771.cpp) | _O(m + n)_ | _O(n)_ | Easy |||
 
 
 ## Linked List
@@ -64,6 +65,7 @@ LeetCode 代码和题解集合
 |191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./C++/191.cpp) | _O(1)_ | _O(1)_          | Easy           | 按位与 | |
 |201| [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C++](./C++/201.cpp)  | _O(1)_ | _O(1)_ | Medium || |
 |231| [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./C++/231.cpp) | _O(1)_ | _O(1)_ | Easy | 位运算巧妙用法 | |
+|461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./C++/461.cpp) | _O(1)_ | _O(1)_ | Easy |||
 
 
 ## String
@@ -85,6 +87,7 @@ LeetCode 代码和题解集合
 |125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./C++/125.cpp) | _O(n)_  | _O(1)_         | Easy           |||
 |151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./C++/151.cpp) | _O(n)_ | _O(1)_ | Medium         |||
 |165| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./C++/165.cpp) | _O(n)_ | _O(1)_ | Easy     |||
+|709| [To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [C++](./C++/709.cpp) | _O(n)_ | _O(1)_ | Easy | | |
 
 
 ## Stack
