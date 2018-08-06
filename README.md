@@ -66,6 +66,7 @@ LeetCode 代码和题解集合
 |191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./C++/191.cpp) | _O(1)_ | _O(1)_          | Easy           | 按位与 | |
 |201| [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C++](./C++/201.cpp)  | _O(1)_ | _O(1)_ | Medium || |
 |202| [Happy Number](https://leetcode.com/problems/happy-number/)      | [C++](./C++/202.cpp) | _O(k)_  | _O(k)_          | Easy          |||
+|204| [Count Primes](https://leetcode.com/problems/count-primes/)  | [C++](./C++/204.cpp) | _O(n)_        | _O(n)_          | Easy           |||
 |231| [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./C++/231.cpp) | _O(1)_ | _O(1)_ | Easy | 位运算巧妙用法 | |
 |461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./C++/461.cpp) | _O(1)_ | _O(1)_ | Easy |||
 
