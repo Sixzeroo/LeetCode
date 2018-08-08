@@ -13,6 +13,7 @@ LeetCode 代码和题解集合
 |128| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [C++](./C++/128.cpp)  | _O(n)_ | _O(n)_ | Hard         || :triangular_flag_on_post: |
 |149| [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [C++](./C++/149.cpp) | _O(n^2)_ | _O(n)_ | Hard          || :triangular_flag_on_post: |
 |187| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [C++](./C++/187.cpp) | _O(n)_       | _O(n)_          | Medium         |||
+|205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./C++/205.cpp) | _O(n)_ | _O(1)_       | Easy           || |
 |771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](./C++/771.cpp) | _O(m + n)_ | _O(n)_ | Easy |||
 
 
