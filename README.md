@@ -173,6 +173,7 @@ LeetCode 代码和题解集合
 |188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
 |198| [House Robber](https://leetcode.com/problems/house-robber/)| [C++](./C++/198.cpp) | _O(n)_          | _O(1)_          | Easy           |||
 |322| [Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./C++/322.cpp) | _O(n * k)_ | _O(k)_ | Medium || :triangular_flag_on_post: |
+|375| [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)| [C++](./C++/375.cpp) | _O(n^2)_          | _O(n^2)_          | Medium         | 还可以优化 | |
 |416| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/416.cpp) | _O(n * s)_ | _O(s)_ | Medium || |
 |486| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | [C++](./C++/486.cpp) | _O(n^2)_ | _O(n)_ | Medium | | :triangular_flag_on_post: |
 
@@ -278,3 +279,5 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
 |175| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](./MySQL/175.sql) | _O(m + n)_   | _O(m + n)_ | Easy     |||
+|176| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./MySQL/176.sql) | _O(n)_ | _O(1)_ | Easy         |||
+|177| [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](./MySQL/177.sql) | _O(n^2)_   | _O(n)_ | Medium         |||
