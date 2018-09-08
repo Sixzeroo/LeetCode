@@ -15,6 +15,7 @@ LeetCode 代码和题解集合
 |187| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [C++](./C++/187.cpp) | _O(n)_       | _O(n)_          | Medium         |||
 |205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./C++/205.cpp) | _O(n)_ | _O(1)_       | Easy           || |
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | [C++](./C++/217.cpp) | _O(n)_        | _O(n)_          | Easy           |||
+|560| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |[C++](./C++/560.cpp) | _O(n)_ | _O(n)_ | Medium         | | :triangular_flag_on_post: |
 |771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](./C++/771.cpp) | _O(m + n)_ | _O(n)_ | Easy |||
 
 
