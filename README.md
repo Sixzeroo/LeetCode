@@ -108,6 +108,7 @@ LeetCode 代码和题解集合
 |155| [Min Stack](https://leetcode.com/problems/min-stack/)     | [C++](./C++/155.cpp) | _O(n)_          | _O(1)_          | Easy           |||
 |173| [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./C++/173.cpp)  | _O(1)_| _O(h)_| Medium || :triangular_flag_on_post: |
 |227| [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [C++](./C++/227.cpp) | _O(n)_| _O(n)_| Medium || :triangular_flag_on_post: |
+|456| [132 Pattern](https://leetcode.com/problems/132-pattern/) | [C++](./C++/456.cpp)  | _O(n)_          | _O(n)_          | Medium           | 单调栈 | :triangular_flag_on_post: | 
 
 
 ## Array
@@ -184,7 +185,7 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
 |011| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./C++/011.cpp) | _O(n)_ | _O(1)_ | Medium | [贪心算法](https://www.liuin.cn/2018/03/09/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Container-With-Most-Water/) | |
-|042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/042.cpp) | _O(n)_ | _O(1)_ | Hard | 双指针，巧妙方法 | 
+|042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/042.cpp) | _O(n)_ | _O(1)_ | Hard | 双指针，巧妙方法 | :triangular_flag_on_post: |
 |045| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [C++](./C++/045.cpp) | _O(n)_        | _O(1)_          | Hard           || |
 |055| [Jump Game](https://leetcode.com/problems/jump-game/)     | [C++](./C++/055.cpp)  | _O(n)_          | _O(1)_          | Medium         || |
 |091| [Decode Ways](https://leetcode.com/problems/decode-ways/)   | [C++](./C++/091.cpp) | _O(n)_          | _O(n)_          | Medium         || :triangular_flag_on_post: |
