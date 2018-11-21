@@ -1,11 +1,11 @@
-# [LeetCode](https://github.com/Sixzeroo/LeetCode) ![language](https://img.shields.io/badge/language-C%2B%2B-yellow.svg)
+# [LeetCode](https://github.com/Sixzeroo/LeetCode) ![language](https://img.shields.io/badge/language-C%2B%2B-yellow.svg) ![language](https://img.shields.io/badge/language-Golang-yellow.svg)
 
 LeetCode 代码和题解集合
 
 ## Hash Table
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
-|001| [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/1-Two-Sum.cpp) | _O(n)_ | _O(n)_ | Easy | | :triangular_flag_on_post: |
+|001| [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/1-Two-Sum.cpp) [Go](./Golang/1.go) | _O(n)_ | _O(n)_ | Easy | | :triangular_flag_on_post: |
 |003| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/3-Longest-Substring-Without-Repeating-Characters.cpp) | _O(n)_ | _O(1)_ | Medium | | :triangular_flag_on_post: |
 |036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./C++/036.cpp) | _O(9^2)_         | _O(9)_          | Easy           || |
 |049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | [C++](./C++/049.cpp)  | _O(n * glogg)_          | _O(n)_          | Medium         || :triangular_flag_on_post: |
