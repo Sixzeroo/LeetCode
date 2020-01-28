@@ -283,3 +283,7 @@ LeetCode 代码和题解集合
 |175| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](./MySQL/175.sql) | _O(m + n)_   | _O(m + n)_ | Easy     |||
 |176| [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./MySQL/176.sql) | _O(n)_ | _O(1)_ | Easy         |||
 |177| [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](./MySQL/177.sql) | _O(n^2)_   | _O(n)_ | Medium         |||
+|178| [Rank Scores](https://leetcode.com/problems/rank-scores/) | [MySQL](./MySQL/178.sql) | _O(n^2)_   | _O(n)_ | Medium         |||
+|180| [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [MySQL](./MySQL/180.sql) | _O(n)_   | _O(n)_ | Medium         |||
+|181| [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./MySQL/181.sql) | _O(n^2)_   | _O(1)_ | Easy         |||
+|182| [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./MySQL/182.sql) | _O(n^2)_   | _O(1)_ | Easy         |||
