@@ -5,7 +5,7 @@ LeetCode 代码和题解集合
 ## Hash Table
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
-|001| [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/1-Two-Sum.cpp) [Go](./Golang/1.go) | _O(n)_ | _O(n)_ | Easy | | :triangular_flag_on_post: |
+|001| [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/1-Two-Sum.cpp) [Go](./Golang/prob0001/1.go) | _O(n)_ | _O(n)_ | Easy | | :triangular_flag_on_post: |
 |003| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/3-Longest-Substring-Without-Repeating-Characters.cpp) | _O(n)_ | _O(1)_ | Medium | | :triangular_flag_on_post: |
 |036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./C++/036.cpp) | _O(9^2)_         | _O(9)_          | Easy           || |
 |049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | [C++](./C++/049.cpp)  | _O(n * glogg)_          | _O(n)_          | Medium         || :triangular_flag_on_post: |
@@ -22,7 +22,7 @@ LeetCode 代码和题解集合
 ## Linked List
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
-|002| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./C++/2-Add-Two-Numbers.cpp) | _O(n)_ | _O(1)_ | Medium | 加法模拟 | |
+|002| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./C++/2-Add-Two-Numbers.cpp) [Go](./Golang/prob0002/2.go)| _O(n)_ | _O(1)_ | Medium | 加法模拟 | |
 |019| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./C++/019.cpp) | _O(n)_       | _O(1)_         | Easy         | 双指针 | 
 |021| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./C++/21-Merge-Two-Sorted-Lists.cpp)| _O(n)_ | _O(1)_ | Easy         || |
 |023| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/23-Merge-k-Sorted-Lists.cpp) | _O(nlogk)_| _O(1)_| Hard          | [here](https://www.liuin.cn/2018/01/26/LeetCode%20Merge%20k%20Sorted%20Lists%20%E9%A2%98%E8%A7%A3/) | :triangular_flag_on_post: |
