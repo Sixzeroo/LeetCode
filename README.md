@@ -8,7 +8,7 @@ LeetCode 代码和题解集合
 |001| [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./C++/1-Two-Sum.cpp) [Go](./Golang/prob0001/1.go) | _O(n)_ | _O(n)_ | Easy | | :triangular_flag_on_post: |
 |003| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/3-Longest-Substring-Without-Repeating-Characters.cpp) [Go](./Golang/prob0003/3.go) | _O(n)_ | _O(1)_ | Medium | | :triangular_flag_on_post: |
 |036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./C++/036.cpp) | _O(9^2)_         | _O(9)_          | Easy           || |
-|049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | [C++](./C++/049.cpp)  | _O(n * glogg)_          | _O(n)_          | Medium         || :triangular_flag_on_post: |
+|049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | [C++](./C++/049.cpp) [Go](./Golang/prob0049/prob0049.go)  | _O(n * glogg)_          | _O(n)_          | Medium         || :triangular_flag_on_post: |
 |076| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/076.cpp) | _O(n)_ | _O(k)_ | Hard          || 
 |128| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [C++](./C++/128.cpp)  | _O(n)_ | _O(n)_ | Hard         || :triangular_flag_on_post: |
 |149| [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [C++](./C++/149.cpp) | _O(n^2)_ | _O(n)_ | Hard          || :triangular_flag_on_post: |

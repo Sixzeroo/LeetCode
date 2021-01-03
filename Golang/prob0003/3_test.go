@@ -2,32 +2,28 @@ package prob0003
 
 import "testing"
 
-func TestLengthOfLongestSubstringCase1(t *testing.T) {
-	s := "a"
-
-	res := lengthOfLongestSubstring(s)
-
-	if res != 1 {
-		t.Fail()
+func Test_lengthOfLongestSubstring(t *testing.T) {
+	type args struct {
+		s string
 	}
-}
-
-func TestLengthOfLongestSubstringCase2(t *testing.T) {
-	s := "bbbbb"
-
-	res := lengthOfLongestSubstring(s)
-
-	if res != 1 {
-		t.Fail()
+	tests := []struct {
+		name string
+		args args
+		want int
+	}{
+		{
+			name: "case1",
+			args: args{
+				s: "abba",
+			},
+			want: 2,
+		},
 	}
-}
-
-func TestLengthOfLongestSubstringCase3(t *testing.T) {
-	s := "bbbbb"
-
-	res := lengthOfLongestSubstring(s)
-
-	if res != 1 {
-		t.Fail()
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := lengthOfLongestSubstring(tt.args.s); got != tt.want {
+				t.Errorf("lengthOfLongestSubstring() = %v, want %v", got, tt.want)
+			}
+		})
 	}
 }

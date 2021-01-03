@@ -1,15 +1,12 @@
 package prob0001
 
 func twoSum(nums []int, target int) []int {
-	m := make(map[int]int, len(nums))
-
-	for i, v := range nums {
-		if n, ok := m[target - v] ; ok {
-			return []int{n, i}
+	numIndexMap := make(map[int]int)
+	for index, num := range nums {
+		if otherIndex, found := numIndexMap[target-num]; found {
+			return []int{otherIndex, index}
 		}
-
-		m[v] = i
+		numIndexMap[num] = index
 	}
-
-	return nil
+	return []int{}
 }
