@@ -25,10 +25,10 @@ LeetCode 代码和题解集合
 |002| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./C++/2-Add-Two-Numbers.cpp) [Go](./Golang/prob0002/2.go)| _O(n)_ | _O(1)_ | Medium | 加法模拟 | |
 |019| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./C++/019.cpp) | _O(n)_       | _O(1)_         | Easy         | 双指针 | 
 |021| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./C++/21-Merge-Two-Sorted-Lists.cpp)| _O(n)_ | _O(1)_ | Easy         || |
-|023| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/23-Merge-k-Sorted-Lists.cpp) | _O(nlogk)_| _O(1)_| Hard          | [here](https://www.liuin.cn/2018/01/26/LeetCode%20Merge%20k%20Sorted%20Lists%20%E9%A2%98%E8%A7%A3/) | :triangular_flag_on_post: |
+|023| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/23-Merge-k-Sorted-Lists.cpp) [Go](./Golang/prob0023/prob0023.go) | _O(nlogk)_| _O(1)_| Hard          | [here](https://www.liuin.cn/2018/01/26/LeetCode%20Merge%20k%20Sorted%20Lists%20%E9%A2%98%E8%A7%A3/) | :triangular_flag_on_post: |
 |024| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./C++/024.cpp)   | _O(n)_          | _O(1)_          | Easy         || |
-|025| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./C++/025.cpp) | _O(n)_       | _O(1)_         | Hard         || :triangular_flag_on_post: |
-|061| [Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./C++/061.cpp)  | _O(n)_          | _O(1)_          | Medium         || :triangular_flag_on_post: |
+|025| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./C++/025.cpp) [Go](./Golang/prob0025/prob0025.go) | _O(n)_       | _O(1)_         | Hard         || :triangular_flag_on_post: |
+|061| [Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./C++/061.cpp) [Go](./Golang/prob0061/prob0061.go)  | _O(n)_          | _O(1)_          | Medium         || :triangular_flag_on_post: |
 |082| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./C++/082.cpp) | _O(n)_       | _O(1)_         | Medium         || :triangular_flag_on_post: |
 |083| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./C++/083.cpp) | _O(n)_       | _O(1)_         | Easy           || | 
 |086| [Partition List](https://leetcode.com/problems/partition-list/)| [C++](./C++/086.cpp) | _O(n)_       | _O(1)_         | Medium         || |
