@@ -29,11 +29,11 @@ LeetCode 代码和题解集合
 |024| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./C++/024.cpp)   | _O(n)_          | _O(1)_          | Easy         || |
 |025| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](./C++/025.cpp) [Go](./Golang/prob0025/prob0025.go) | _O(n)_       | _O(1)_         | Hard         || :triangular_flag_on_post: |
 |061| [Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./C++/061.cpp) [Go](./Golang/prob0061/prob0061.go)  | _O(n)_          | _O(1)_          | Medium         || :triangular_flag_on_post: |
-|082| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./C++/082.cpp) | _O(n)_       | _O(1)_         | Medium         || :triangular_flag_on_post: |
+|082| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](./C++/082.cpp) [Go](./Golang/prob0082/prob0082.go) | _O(n)_       | _O(1)_         | Medium         || :triangular_flag_on_post: |
 |083| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./C++/083.cpp) | _O(n)_       | _O(1)_         | Easy           || | 
 |086| [Partition List](https://leetcode.com/problems/partition-list/)| [C++](./C++/086.cpp) | _O(n)_       | _O(1)_         | Medium         || |
 |092| [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./C++/092.cpp)  | _O(n)_       | _O(1)_         | Medium         |||
-|138| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./C++/138.cpp)  | _O(n)_   | _O(1)_          | Hard         || :triangular_flag_on_post: |
+|138| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./C++/138.cpp) [Go](./Golang/prob0138/prob0138.go)  | _O(n)_   | _O(1)_          | Hard         || :triangular_flag_on_post: |
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](./C++/141.cpp) | _O(n)_ | _O(1)_         | Easy         |||
 |142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [C++](./C++/142.cpp) | _O(n)_ | _O(1)_   | Medium         || :triangular_flag_on_post: |
 |143| [Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./C++/143.cpp) | _O(n)_          |  _O(1)_         | Medium         |||
