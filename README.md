@@ -53,8 +53,8 @@ LeetCode 代码和题解集合
 |009| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./C++/9-Palindrome-Number.cpp) | _O(1)_ | _O(1)_        | Easy           || |
 |012| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./C++/012.cpp) | _O(n)_ | _O(1)_          | Medium || |
 |013| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./C++/13-Roman-to-Integer.cpp)  | _O(n)_ | _O(1)_          | Easy           || |
-|029| [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./C++/029.cpp)   | _O(1)_       | _O(1)_         | Medium         | 位运算 | :triangular_flag_on_post: |
-|050| [Pow(x, n)](https://leetcode.com/problems/powx-n/)     | [C++](./C++/050.cpp)     | _O(1)_       | _O(1)_       | Medium         | 快速幂运算 | :triangular_flag_on_post: | 
+|029| [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./C++/029.cpp)   | _O(1)_       | _O(1)_         | Medium         | 位运算 | |
+|050| [Pow(x, n)](https://leetcode.com/problems/powx-n/)     | [C++](./C++/050.cpp)  [Go](./Golang/prob0050/prob0050.go)   | _O(1)_       | _O(1)_       | Medium         | 快速幂运算 | :triangular_flag_on_post: | 
 |060| [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./C++/060.cpp)  | _O(n^2)_ | _O(n)_  | Medium         || |
 |065| [Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./C++/065.cpp) | _O(n)_         | _O(1)_          | Hard | 匹配 | |
 |070| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./C++/070.cpp) | _O(n)_    | _O(1)_          | Easy           | 斐波那契数列 | |
