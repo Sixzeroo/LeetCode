@@ -35,11 +35,11 @@ LeetCode 代码和题解集合
 |092| [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./C++/092.cpp)  | _O(n)_       | _O(1)_         | Medium         |||
 |138| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./C++/138.cpp) [Go](./Golang/prob0138/prob0138.go)  | _O(n)_   | _O(1)_          | Hard         || :triangular_flag_on_post: |
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](./C++/141.cpp) | _O(n)_ | _O(1)_         | Easy         |||
-|142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [C++](./C++/142.cpp) | _O(n)_ | _O(1)_   | Medium         || :triangular_flag_on_post: |
+|142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [C++](./C++/142.cpp) [Go](./Golang/prob0142/prob0142.go) | _O(n)_ | _O(1)_   | Medium         || :triangular_flag_on_post: |
 |143| [Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./C++/143.cpp) | _O(n)_          |  _O(1)_         | Medium         |||
 |147| [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](./C++/147.cpp) | _O(n^2)_ | _O(1)_    | Medium         |||
-|148| [Sort List](https://leetcode.com/problems/sort-list/)     | [C++](./C++/148.cpp) | _O(nlogn)_      | _O(logn)_       | Medium         | 链表的归并排序实现 | :triangular_flag_on_post: |
-|160| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](./C++/160.cpp) | _O(m + n)_ | _O(1)_         | Easy           || :triangular_flag_on_post: |
+|148| [Sort List](https://leetcode.com/problems/sort-list/)     | [C++](./C++/148.cpp) [Go](./Golang/prob0148/prob0148.go) | _O(nlogn)_      | _O(logn)_       | Medium         | 链表的归并排序实现 | :triangular_flag_on_post: |
+|160| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](./C++/160.cpp) [Go](./Golang/prob0160/prob0160.go) | _O(m + n)_ | _O(1)_         | Easy           || :triangular_flag_on_post: |
 |162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./C++/162.cpp)        | _O(logn)_       | _O(1)_          | Medium         |||
 |203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [C++](./C++/203.cpp) | _O(n)_       | _O(1)_         | Easy         || |
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](./C++/206.cpp)  | _O(n)_       | _O(1)_         | Easy         || |
