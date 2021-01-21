@@ -62,11 +62,11 @@ LeetCode 代码和题解集合
 |136| [Single Number](https://leetcode.com/problems/single-number/) | [C++](./C++/136.cpp)  | _O(n)_       | _O(1)_          | Easy         | 异或操作 | |
 |137| [Single Number II](https://leetcode.com/problems/single-number-ii/) | [C++](./C++/137.cpp) | _O(n)_ | _O(1)_          | Medium         |  | |
 |166| [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./C++/166.cpp) | _O(logn)_ | _O(1)_ | Medium         |||
-|168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./C++/168.cpp) | _O(logn)_ | _O(1)_ | Easy || :triangular_flag_on_post: |
+|168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./C++/168.cpp) [Go](./Golang/prob0168/prob0168.go) | _O(logn)_ | _O(1)_ | Easy || :triangular_flag_on_post: |
 |171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./C++/171.cpp)  | _O(n)_ | _O(1)_ | Easy  |||
 |172| [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./C++/172.cpp)  | _O(1)_ | _O(1)_ | Easy         |||
 |190| [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [C++](./C++/190.cpp) | _O(1)_        | _O(1)_          | Easy           | 位操作 | |
-|191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./C++/191.cpp) | _O(1)_ | _O(1)_          | Easy           | 按位与 | |
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./C++/191.cpp) | _O(1)_ | _O(1)_          | Easy           | 按位与 | |
 |201| [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C++](./C++/201.cpp)  | _O(1)_ | _O(1)_ | Medium || |
 |202| [Happy Number](https://leetcode.com/problems/happy-number/)      | [C++](./C++/202.cpp) | _O(k)_  | _O(k)_          | Easy          |||
 |204| [Count Primes](https://leetcode.com/problems/count-primes/)  | [C++](./C++/204.cpp) | _O(n)_        | _O(n)_          | Easy           |||
@@ -77,7 +77,7 @@ LeetCode 代码和题解集合
 ## String
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
-|005| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./C++/005.cpp)  | _O(n)_ | _O(n)_ |  Medium | Manacher算法 | :triangular_flag_on_post: |
+|005| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./C++/005.cpp) [Go](./Golang/prob0005/prob0005.go)  | _O(n)_ | _O(n)_ |  Medium | Manacher算法 | :triangular_flag_on_post: |
 |006| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./C++/006.cpp)  | _O(n)_ | _O(1)_        | Easy           | 模拟法 | |
 |008| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./C++/008.cpp)  | _O(n)_ | _O(1)_ | Medium      | 模拟法| |
 |014| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./C++/14-Longest-Common-Prefix.cpp) | _O(n * k)_   | _O(1)_  | Easy           || |
