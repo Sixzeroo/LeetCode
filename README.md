@@ -101,7 +101,7 @@ LeetCode 代码和题解集合
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
 |020| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./C++/20-Valid-Parentheses.cpp) | _O(n)_        | _O(n)_          | Easy           || |
 |032| [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./C++/032-2.cpp)  | _O(n)_ | _O(1)_ | Hard   |[here](https://www.liuin.cn/2018/03/18/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Longest-Valid-Parentheses/)| |
-|084| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/084.cpp) | _O(n)_ | _O(n)_ | Hard | 递增栈 | :triangular_flag_on_post: |
+|084| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/084.cpp) [Go](./Golang/prob0084/prob0084.go) | _O(n)_ | _O(n)_ | Hard | 递增栈 | :triangular_flag_on_post: |
 |085| [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [C++](./C++/085.cpp) | _O(m * n)_ | _O(n)_         | Hard           | 递增栈 | :triangular_flag_on_post: |
 |101| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [C++](./C++/101.cpp)  | _O(n)_      | _O(h)_          | Easy           || |
 |150| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./C++/150.cpp) | _O(n)_| _O(n)_| Medium          |||
