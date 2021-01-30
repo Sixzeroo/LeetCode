@@ -47,6 +47,7 @@ func largestRectangleArea(heights []int) int {
 				beginIndex = incresStask.Top()
 			}
 			// 要找到前一个入栈元素的index，因为中间的元素都比 popH 大
+			// 示意图：http://data3.liuin.cn/2021_01_30_19_35_09_7xWEYilt.png
 			w := i - beginIndex - 1
 			if popH*w > res {
 				res = popH * w
