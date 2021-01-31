@@ -1,4 +1,4 @@
-package prob456
+package prob0456
 
 type StackInt struct {
 	Data []int
@@ -32,25 +32,32 @@ func NewStackInt() *StackInt {
 }
 
 func find132pattern(nums []int) bool {
-	stack := NewStackInt()
+	nums = reverseSliceInt(nums)
 
+	// 维护一个单调栈 + 第3个数
+	stack := NewStackInt()
+	secondNum := -1000000001
 	for _, num := range nums {
-		if stack.IsEmpty() || num > stack.Top() {
-			stack.Push(num)
-		} else if num < stack.Top() {
-			for !stack.IsEmpty() && num < stack.Top() {
-				stack.Pop()
-				if stack.IsEmpty() {
-					stack.Push(num)
-					break
-				} else {
-					if num > stack.Top() {
-						return true
-					}
-				}
-			}
+		if num < secondNum {
+			return true
 		}
+		for !stack.IsEmpty() && num > stack.Top() {
+			if secondNum < stack.Top() {
+				secondNum = stack.Top()
+			}
+			stack.Pop()
+		}
+		stack.Push(num)
 	}
 
 	return false
+}
+
+func reverseSliceInt(s []int) []int {
+	res := make([]int, len(s), len(s))
+	l := len(s)
+	for i, item := range s {
+		res[l-1-i] = item
+	}
+	return res
 }

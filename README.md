@@ -108,7 +108,7 @@ LeetCode 代码和题解集合
 |155| [Min Stack](https://leetcode.com/problems/min-stack/)     | [C++](./C++/155.cpp) | _O(n)_          | _O(1)_          | Easy           |||
 |173| [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./C++/173.cpp) [Go](./Golang/prob0173/prob0173.go)  | _O(1)_| _O(h)_| Medium || :triangular_flag_on_post: |
 |227| [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [C++](./C++/227.cpp) [Go](./Golang/prob0227/prob0227.go) | _O(n)_| _O(n)_| Medium || :triangular_flag_on_post: |
-|456| [132 Pattern](https://leetcode.com/problems/132-pattern/) | [C++](./C++/456.cpp)  | _O(n)_          | _O(n)_          | Medium           | 单调栈 | :triangular_flag_on_post: | 
+|456| [132 Pattern](https://leetcode.com/problems/132-pattern/) | [C++](./C++/456.cpp) [Go](./Golang/prob0456/prob0456.go)  | _O(n)_          | _O(n)_          | Medium           | 单调栈 | :triangular_flag_on_post: | 
 
 
 ## Array
@@ -131,7 +131,7 @@ LeetCode 代码和题解集合
 |088| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](./C++/088.cpp)  | _O(n)_ | _O(1)_       | Easy           || |
 |118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./C++/118.cpp) | _O(n^2)_ | _O(1)_        | Easy           |||
 |119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./C++/119.cpp)  | _O(n^2)_ | _O(1)_  | Easy           |||
-|121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./C++/121.cpp)  | _O(n)_ | _O(1)_ | Easy | 逆向思维 | :triangular_flag_on_post: |
+|121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./C++/121.cpp) [Go](./Golang/prob0121/prob0121.go)  | _O(n)_ | _O(1)_ | Easy | 逆向思维 | :triangular_flag_on_post: |
 |167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./C++/167.cpp) | _O(n)_   | _O(1)_         | Medium         | 双指针 | | 
 |169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./C++/169.cpp) | _O(n)_ | _O(1)_          | Easy |||
 |189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)   | [C++](./C++/189.cpp) | _O(n)_        | _O(1)_         | Easy           |||
