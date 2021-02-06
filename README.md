@@ -161,7 +161,7 @@ LeetCode 代码和题解集合
 |063| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](./C++/063.cpp) |  _O(m * n)_ | _O(m + n)_   | Medium         || |
 |064| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./C++/064.cpp)| _O(m * n)_ | _O(m + n)_     | Medium         || |
 |072| [Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./C++/072.cpp)| _O(m * n)_      | _O(m + n)_      | Hard           |空间待优化| |
-|087| [Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/087.cpp) | _O(n^4)_ | _O(n^3)_        | Hard           || :triangular_flag_on_post: |
+|087| [Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](./C++/087.cpp) [Go](./Golang/prob0087/prob0087.go) | _O(n^4)_ | _O(n^3)_        | Hard           || :triangular_flag_on_post: |
 |095| [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [C++](./C++/095.cpp)  | _O(4^n / n^(3/2)_      | _O(4^n / n^(3/2)_         | Medium         || 待完善 |
 |096| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [C++](./C++/096.cpp) | _O(n)_      | _O(1)_         | Medium         |||
 |097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](./C++/097.cpp)| _O(m * n)_ | _O(m + n)_ | Hard         || :triangular_flag_on_post: |
