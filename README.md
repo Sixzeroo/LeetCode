@@ -165,7 +165,7 @@ LeetCode 代码和题解集合
 |095| [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [C++](./C++/095.cpp)  | _O(4^n / n^(3/2)_      | _O(4^n / n^(3/2)_         | Medium         || 待完善 |
 |096| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [C++](./C++/096.cpp) | _O(n)_      | _O(1)_         | Medium         |||
 |097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](./C++/097.cpp)| _O(m * n)_ | _O(m + n)_ | Hard         || :triangular_flag_on_post: |
-|115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./C++/115.cpp)| _O(n^2)_ | _O(n)_ | Hard           | :triangular_flag_on_post: |
+|115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./C++/115.cpp)| _O(n^2)_ | _O(n)_ | Hard           || :triangular_flag_on_post: |
 |120| [Triangle](https://leetcode.com/problems/triangle/)       | [C++](./C++/120.cpp) | _O(m * n)_      | _O(n)_         | Medium         |||
 |132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/132.cpp) | _O(n^2)_ | _O(n^2)_ | Hard || :triangular_flag_on_post: |
 |139| [Word Break](https://leetcode.com/problems/word-break/)     | [C++](./C++/139.cpp) |  _O(n * l^2)_         | _O(n)_       | Medium         || :triangular_flag_on_post: |
