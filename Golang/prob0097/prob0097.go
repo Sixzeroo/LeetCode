@@ -8,6 +8,7 @@ func isInterleave(s1 string, s2 string, s3 string) bool {
 	}
 
 	// m 的坐标向右边平移一位，原因：让代码统一
+	// 初版三维数组方案：http://data3.liuin.cn/2021_02_11_00_14_33_8dADrBmU.png
 	// 状态转移方程：http://data3.liuin.cn/2021_02_09_01_18_30_kpyGbULN.png
 	// dp[i][j] 表示 s1[0:i] s2[0:j] s3[0:i+j] 满足条件
 	dp := make([]bool, m+1, m+1)
