@@ -185,7 +185,7 @@ LeetCode 代码和题解集合
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
 |011| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./C++/011.cpp) | _O(n)_ | _O(1)_ | Medium | [贪心算法](https://www.liuin.cn/2018/03/09/LeetCode-%E9%A2%98%E8%A7%A3%E2%80%94%E2%80%94Container-With-Most-Water/) | |
-|042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/042.cpp) | _O(n)_ | _O(1)_ | Hard | 双指针，巧妙方法 | :triangular_flag_on_post: |
+|042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/042.cpp) [Go](./Golang/prob0042/prob0042.go) | _O(n)_ | _O(1)_ | Hard | 双指针，巧妙方法 | :triangular_flag_on_post: |
 |045| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [C++](./C++/045.cpp) | _O(n)_        | _O(1)_          | Hard           || |
 |055| [Jump Game](https://leetcode.com/problems/jump-game/)     | [C++](./C++/055.cpp)  | _O(n)_          | _O(1)_          | Medium         || |
 |091| [Decode Ways](https://leetcode.com/problems/decode-ways/)   | [C++](./C++/091.cpp) | _O(n)_          | _O(n)_          | Medium         || :triangular_flag_on_post: |
