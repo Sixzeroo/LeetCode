@@ -167,7 +167,7 @@ LeetCode 代码和题解集合
 |097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](./C++/097.cpp) [Go](./Golang/prob0097/prob0097.go) | _O(m * n)_ | _O(m + n)_ | Hard         || :triangular_flag_on_post: |
 |115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./C++/115.cpp) [Go](./Golang/prob0115/prob0115.go) | _O(n^2)_ | _O(n)_ | Hard           || :triangular_flag_on_post: |
 |120| [Triangle](https://leetcode.com/problems/triangle/)       | [C++](./C++/120.cpp) | _O(m * n)_      | _O(n)_         | Medium         |||
-|132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/132.cpp) | _O(n^2)_ | _O(n^2)_ | Hard || :triangular_flag_on_post: |
+|132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/132.cpp) [Go](./Golang/prob0132/prob0132.go) | _O(n^2)_ | _O(n^2)_ | Hard || :triangular_flag_on_post: |
 |139| [Word Break](https://leetcode.com/problems/word-break/)     | [C++](./C++/139.cpp) |  _O(n * l^2)_         | _O(n)_       | Medium         || :triangular_flag_on_post: |
 |140| [Word Break II](https://leetcode.com/problems/word-break-ii/)  | [C++](./C++/140.cpp) |  _O(n * l^2 + n * r)_      | _O(n^2)_       | Hard           || :triangular_flag_on_post: |
 |152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [C++](./C++/152.cpp) | _O(n)_ | _O(1)_ | Medium     || :triangular_flag_on_post: |
