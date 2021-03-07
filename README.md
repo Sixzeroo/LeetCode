@@ -169,7 +169,7 @@ LeetCode 代码和题解集合
 |120| [Triangle](https://leetcode.com/problems/triangle/)       | [C++](./C++/120.cpp) | _O(m * n)_      | _O(n)_         | Medium         |||
 |132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/132.cpp) [Go](./Golang/prob0132/prob0132.go) | _O(n^2)_ | _O(n^2)_ | Hard || :triangular_flag_on_post: |
 |139| [Word Break](https://leetcode.com/problems/word-break/)     | [C++](./C++/139.cpp) [Go](./Golang/prob0139/prob0139.go) |  _O(n * l^2)_         | _O(n)_       | Medium         || :triangular_flag_on_post: |
-|140| [Word Break II](https://leetcode.com/problems/word-break-ii/)  | [C++](./C++/140.cpp) |  _O(n * l^2 + n * r)_      | _O(n^2)_       | Hard           || :triangular_flag_on_post: |
+|140| [Word Break II](https://leetcode.com/problems/word-break-ii/)  | [C++](./C++/140.cpp) [Go](./Golang/prob0140/prob0140.go) |  _O(n * l^2 + n * r)_      | _O(n^2)_       | Hard           || :triangular_flag_on_post: |
 |152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [C++](./C++/152.cpp) | _O(n)_ | _O(1)_ | Medium     || :triangular_flag_on_post: |
 |174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [C++](./C++/174.cpp) | _O(m * n)_     | _O(m + n)_      | Hard           || |
 |188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
@@ -178,8 +178,6 @@ LeetCode 代码和题解集合
 |375| [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)| [C++](./C++/375.cpp) | _O(n^2)_          | _O(n^2)_          | Medium         | 还可以优化 | |
 |416| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/416.cpp) | _O(n * s)_ | _O(s)_ | Medium || |
 |486| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | [C++](./C++/486.cpp) | _O(n^2)_ | _O(n)_ | Medium | | :triangular_flag_on_post: |
-
-
 
 ## Greedy
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
@@ -192,7 +190,7 @@ LeetCode 代码和题解集合
 |122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [C++](./C++/122.cpp) | _O(n)_ | _O(1)_ | Easy || |
 |123| [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./C++/123.cpp) | _O(n)_ | _O(1)_ | Hard ||
 |134| [Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./C++/134.cpp)   | _O(n)_          | _O(1)_          | Medium         || :triangular_flag_on_post: |
-|135| [Candy](https://leetcode.com/problems/candy/)| [C++](./C++/135.cpp) | _O(n)_ | _O(n)_ | Hard || :triangular_flag_on_post: |
+|407| [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [Go](./Golang/prob0407/prob0407.go) | | | Hard || :triangular_flag_on_post: |
 
 ## Backtracking
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
