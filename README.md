@@ -170,7 +170,7 @@ LeetCode 代码和题解集合
 |132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./C++/132.cpp) [Go](./Golang/prob0132/prob0132.go) | _O(n^2)_ | _O(n^2)_ | Hard || :triangular_flag_on_post: |
 |139| [Word Break](https://leetcode.com/problems/word-break/)     | [C++](./C++/139.cpp) [Go](./Golang/prob0139/prob0139.go) |  _O(n * l^2)_         | _O(n)_       | Medium         || :triangular_flag_on_post: |
 |140| [Word Break II](https://leetcode.com/problems/word-break-ii/)  | [C++](./C++/140.cpp) [Go](./Golang/prob0140/prob0140.go) |  _O(n * l^2 + n * r)_      | _O(n^2)_       | Hard           || :triangular_flag_on_post: |
-|152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [C++](./C++/152.cpp) | _O(n)_ | _O(1)_ | Medium     || :triangular_flag_on_post: |
+|152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [C++](./C++/152.cpp) [Go](./Golang/prob0152/prob0152.go) | _O(n)_ | _O(1)_ | Medium     || :triangular_flag_on_post: |
 |174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [C++](./C++/174.cpp) | _O(m * n)_     | _O(m + n)_      | Hard           || |
 |188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
 |198| [House Robber](https://leetcode.com/problems/house-robber/)| [C++](./C++/198.cpp) | _O(n)_          | _O(1)_          | Easy           |||
