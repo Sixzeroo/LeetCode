@@ -11,6 +11,7 @@ func maxProfit(k int, prices []int) int {
 		buy[i] = -1000001
 	}
 
+	// 一种贪心思路
 	for _, price := range prices {
 		for i := 1; i <= k; i++ {
 			buy[i] = max(sell[i-1]-price, buy[i])
