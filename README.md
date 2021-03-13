@@ -173,7 +173,7 @@ LeetCode 代码和题解集合
 |152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [C++](./C++/152.cpp) [Go](./Golang/prob0152/prob0152.go) | _O(n)_ | _O(1)_ | Medium     || :triangular_flag_on_post: |
 |174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [C++](./C++/174.cpp) | _O(m * n)_     | _O(m + n)_      | Hard           || |
 |198| [House Robber](https://leetcode.com/problems/house-robber/)| [C++](./C++/198.cpp) | _O(n)_          | _O(1)_          | Easy           |||
-|322| [Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./C++/322.cpp) | _O(n * k)_ | _O(k)_ | Medium || :triangular_flag_on_post: |
+|322| [Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./C++/322.cpp) [Go](./Golang/prob0322/prob0322.go) | _O(n * k)_ | _O(k)_ | Medium || :triangular_flag_on_post: |
 |375| [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)| [C++](./C++/375.cpp) | _O(n^2)_          | _O(n^2)_          | Medium         | 还可以优化 | |
 |416| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/416.cpp) | _O(n * s)_ | _O(s)_ | Medium || |
 |486| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | [C++](./C++/486.cpp) | _O(n^2)_ | _O(n)_ | Medium | | :triangular_flag_on_post: |
