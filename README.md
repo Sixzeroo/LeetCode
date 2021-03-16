@@ -185,7 +185,7 @@ LeetCode 代码和题解集合
 |042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/042.cpp) [Go](./Golang/prob0042/prob0042.go) | _O(n)_ | _O(1)_ | Hard | 双指针，巧妙方法 | :triangular_flag_on_post: |
 |045| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [C++](./C++/045.cpp) | _O(n)_        | _O(1)_          | Hard           || |
 |055| [Jump Game](https://leetcode.com/problems/jump-game/)     | [C++](./C++/055.cpp)  | _O(n)_          | _O(1)_          | Medium         || |
-|091| [Decode Ways](https://leetcode.com/problems/decode-ways/)   | [C++](./C++/091.cpp) | _O(n)_          | _O(n)_          | Medium         || :triangular_flag_on_post: |
+|091| [Decode Ways](https://leetcode.com/problems/decode-ways/)   | [C++](./C++/091.cpp) [Go](./Golang/prob0091/prob0091.go) | _O(n)_          | _O(n)_          | Medium         || :triangular_flag_on_post: |
 |122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [C++](./C++/122.cpp) | _O(n)_ | _O(1)_ | Easy || |
 |123| [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./C++/123.cpp) | _O(n)_ | _O(1)_ | Hard ||
 |134| [Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./C++/134.cpp)   | _O(n)_          | _O(1)_          | Medium         || :triangular_flag_on_post: |
