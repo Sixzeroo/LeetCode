@@ -188,7 +188,7 @@ LeetCode 代码和题解集合
 |091| [Decode Ways](https://leetcode.com/problems/decode-ways/)   | [C++](./C++/091.cpp) [Go](./Golang/prob0091/prob0091.go) | _O(n)_          | _O(n)_          | Medium         || :triangular_flag_on_post: |
 |122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [C++](./C++/122.cpp) | _O(n)_ | _O(1)_ | Easy || |
 |123| [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./C++/123.cpp) | _O(n)_ | _O(1)_ | Hard ||
-|134| [Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./C++/134.cpp)   | _O(n)_          | _O(1)_          | Medium         || :triangular_flag_on_post: |
+|134| [Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./C++/134.cpp) [Go](./Golang/prob0134/prob0134.go)   | _O(n)_          | _O(1)_          | Medium         || :triangular_flag_on_post: |
 |188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./C++/188.cpp) [Go](./Golang/prob0188/prob0188.go) | _O(k * n)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
 |407| [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [Go](./Golang/prob0407/prob0407.go) | | | Hard || :triangular_flag_on_post: |
 
