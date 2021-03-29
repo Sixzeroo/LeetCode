@@ -234,7 +234,7 @@ LeetCode 代码和题解集合
 |056| [Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./C++/056.cpp) | _O(nlogn)_  | _O(1)_        | Medium          || |
 |057| [Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./C++/057.cpp) | _O(n)_    | _O(1)_          | Hard           || |
 |075| [Sort Colors](https://leetcode.com/problems/sort-colors/)   | [C++](./C++/075.cpp) | _O(n)_         | _O(1)_          | Medium         | 三指针 | |
-|164| [Maximum Gap](https://leetcode.com/problems/maximum-gap/)   | [C++](./C++/164.cpp) | _O(n)_          | _O(n)_          | Hard  | 桶排序应用 | :triangular_flag_on_post: |
+|164| [Maximum Gap](https://leetcode.com/problems/maximum-gap/)   | [C++](./C++/164.cpp) [Go](./Golang/prob0164/prob0164.go) | _O(n)_          | _O(n)_          | Hard  | 桶排序应用 | :triangular_flag_on_post: |
 |307| [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./C++/307.cpp) | ctor: _O(n)_, update: _O(logn)_, query:  _O(logn)_ | _O(n)_ | Medium | 树状数组 线段树 | |
 |912| [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Go](./Golang/prob0912/prob0912.go) | _O(nlogn)_ | O(n) | Medium | 所有排序算法都写一遍 | :triangular_flag_on_post: | 
 
