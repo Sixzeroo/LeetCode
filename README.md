@@ -259,7 +259,7 @@ LeetCode 代码和题解集合
 ## Design
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |----- | ----- |
-|146| [LRU Cache](https://leetcode.com/problems/lru-cache/)     | [C++](./C++/146.cpp)  | _O(1)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
+|146| [LRU Cache](https://leetcode.com/problems/lru-cache/)     | [C++](./C++/146.cpp) [Go](./Golang/prob0146/prob0146.go)  | _O(1)_ | _O(k)_ | Hard || :triangular_flag_on_post: |
 
 ## Recursion
 |  #  | 题目           |  代码       |  时间复杂度           | 空间复杂度           | 难度    | 题解 | 备注 | 

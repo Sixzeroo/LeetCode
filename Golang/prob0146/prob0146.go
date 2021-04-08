@@ -35,6 +35,30 @@ func (this *LRUCache) Get(key int) int {
 		return -1
 	}
 
+	this.move2First(node)
+
+	return node.Val
+}
+
+func (this *LRUCache) Put(key int, value int) {
+	node, found := this.m[key]
+	if found {
+		node.Val = value
+	} else {
+		if len(this.m) == this.cap {
+			// 移除最后一个
+			this.removeLastNode()
+		}
+		node = &Node{
+			Key: key,
+			Val: value,
+		}
+		this.m[key] = node
+	}
+	this.move2First(node)
+}
+
+func (this *LRUCache) move2First(node *Node) {
 	if node.Next != nil {
 		node.Next.Pre = node.Pre
 	}
@@ -45,19 +69,16 @@ func (this *LRUCache) Get(key int) int {
 	node.Next = this.first.Next
 	this.first.Next = node
 	node.Pre = this.first
-	if node.Next != nil {
-		node.Next.Pre = node
-	}
-
-	return node.Val
+	node.Next.Pre = node
 }
 
-func (this *LRUCache) Put(key int, value int) {
-	if len(this.m) == this.cap {
-		// 移除最后一个
-		latestNode := this.last.Pre
+func (this *LRUCache) removeLastNode() {
+	latestNode := this.last.Pre
 
-	}
+	latestNode.Pre.Next = latestNode.Next
+	this.last.Pre = latestNode.Pre
+
+	delete(this.m, latestNode.Key)
 }
 
 /**
