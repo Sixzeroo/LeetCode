@@ -273,7 +273,7 @@ LeetCode 代码和题解集合
 |110| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./C++/110.cpp) | _O(n)_| _O(h)_   | Easy           |||
 |111| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](./C++/111.cpp) | _O(n)_ | _O(h)_ | Easy |||
 |112| [Path Sum](https://leetcode.com/problems/path-sum/)      | [C++](./C++/112.cpp)   | _O(n)_          | _O(h)_          | Easy           |||
-|114| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./C++/114.cpp)| _O(n)_        | _O(h)_          | Medium         || :triangular_flag_on_post: |
+|114| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./C++/114.cpp) [Go](./Golang/prob0114/prob0114.go) | _O(n)_        | _O(h)_          | Medium         || :triangular_flag_on_post: |
 |129| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [C++](./C++/129.cpp) | _O(n)_ | _O(h)_ | Medium |||
 
 ## SQL
