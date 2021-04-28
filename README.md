@@ -177,6 +177,7 @@ LeetCode 代码和题解集合
 |375| [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)| [C++](./C++/375.cpp) | _O(n^2)_          | _O(n^2)_          | Medium         | 还可以优化 | |
 |416| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/416.cpp) | _O(n * s)_ | _O(s)_ | Medium || |
 |486| [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | [C++](./C++/486.cpp) [Go](./Golang/prob0486/prob0486.go) | _O(n^2)_ | _O(n)_ | Medium | | :triangular_flag_on_post: |
+|718| [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/) | [Go](./Golang/prob0718/prob0718.go) | _O(n*m)_ | _O(m)_ | Medium | 最长公共子串 | :triangular_flag_on_post: |
 |1143| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Go](./Golang/prob1143/prob1143.go) | _O(m*n)_ | _O(m*n)_ | Medium | | | :triangular_flag_on_post: | 
 
 
